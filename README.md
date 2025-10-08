@@ -4,6 +4,19 @@
 
 **👉 See also: [Awesome Gemini CLI](https://github.com/Piebald-AI/awesome-gemini-cli)**
 
+## Contents
+
+- [Image Generation](https://github.com/Piebald-AI/awesome-gemini-cli-extensions?tab=readme-ov-file#image-generation)
+- [Multimodal Input](https://github.com/Piebald-AI/awesome-gemini-cli-extensions?tab=readme-ov-file#multimodal-input)
+- [Automation & Remote Access](https://github.com/Piebald-AI/awesome-gemini-cli-extensions?tab=readme-ov-file#automation--remote-access)
+- [Databases (Google Cloud)](https://github.com/Piebald-AI/awesome-gemini-cli-extensions?tab=readme-ov-file#databases-google-cloud)
+- [Databases (General)](https://github.com/Piebald-AI/awesome-gemini-cli-extensions?tab=readme-ov-file#databases-general)
+- [Observability & Monitoring](https://github.com/Piebald-AI/awesome-gemini-cli-extensions?tab=readme-ov-file#observability--monitoring)
+- [Data & Analytics](https://github.com/Piebald-AI/awesome-gemini-cli-extensions?tab=readme-ov-file#data--analytics)
+- [App Development](https://github.com/Piebald-AI/awesome-gemini-cli-extensions?tab=readme-ov-file#app-development)
+- [Cloud & Dev Tools](https://github.com/Piebald-AI/awesome-gemini-cli-extensions?tab=readme-ov-file#cloud--dev-tools)
+- [Development](https://github.com/Piebald-AI/awesome-gemini-cli-extensions?tab=readme-ov-file#development)
+
 ## Image Generation
 
 - [nanobanana](https://github.com/gemini-cli-extensions/nanobanana) - Generate and manipulate images using the Gemini 2.5 Flash Image model (Nano Banana).

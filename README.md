@@ -10,14 +10,14 @@
 
 ## Multimodal Input
 
-- [Gemini CLI Vision](https://github.com/automateyournetwork/GeminiCLI_Vision_Extension) - Webcam access with single frame capture and ASL modes
-- [Gemini CLI Talk](https://github.com/automateyournetwork/GeminiCLI_Talk_Extension) - Voice input and audio output; uses OpenAI for TTS currently
+- [Gemini CLI Vision](https://github.com/automateyournetwork/GeminiCLI_Vision_Extension) - Webcam access with single frame capture and ASL modes.
+- [Gemini CLI Talk](https://github.com/automateyournetwork/GeminiCLI_Talk_Extension) - Voice input and audio output; uses OpenAI for TTS currently.
 
 ## Automation & Remote Access
 
-- [Gemini CLI Listen](https://github.com/automateyournetwork/GeminiCLI_Listen_Extension) - Run Gemini-CLI as a server with /listen commands
-- [Gemini CLI Screen-share](https://github.com/automateyournetwork/GeminiCLI_ScreenShare_Extension) - Screen sharing via MCP and custom slash commands
-- [Gemini CLI pyATS](https://github.com/automateyournetwork/pyATS_GeminiCLI_Extension) - pyATS integration for network testing
+- [Gemini CLI Listen](https://github.com/automateyournetwork/GeminiCLI_Listen_Extension) - Run Gemini-CLI as a server with /listen commands.
+- [Gemini CLI Screen-share](https://github.com/automateyournetwork/GeminiCLI_ScreenShare_Extension) - Screen sharing via MCP and custom slash commands.
+- [Gemini CLI pyATS](https://github.com/automateyournetwork/pyATS_GeminiCLI_Extension) - pyATS integration for network testing.
 
 ## Databases (Google Cloud)
 
@@ -56,11 +56,11 @@
 
 ## Cloud & Dev Tools
 
-- [gcloud](https://github.com/gemini-cli-extensions/gcloud) - gcloud Gemini CLI Extension
+- [gcloud](https://github.com/gemini-cli-extensions/gcloud) - gcloud Gemini CLI Extension.
 - [genkit](https://github.com/gemini-cli-extensions/genkit) - Extension https://genkit.dev/.
 - [mcp-toolbox](https://github.com/gemini-cli-extensions/mcp-toolbox) - Develop and query your custom tools using the power of natural language, directly from your command line through MCP Toolbox. Go from an idea to a running, invocable tool in minutes, without ever leaving your terminal.
 
 ## Development
 
-- [code-review](https://github.com/gemini-cli-extensions/code-review) - Google’s Code Review extension for the Gemini CLI that reviews your code changes
-- [security](https://github.com/gemini-cli-extensions/security) - Google’s Security extension for the Gemini CLI that finds vulnerabilities in your code changes and pull requests
+- [code-review](https://github.com/gemini-cli-extensions/code-review) - Google’s Code Review extension for the Gemini CLI that reviews your code changes.
+- [security](https://github.com/gemini-cli-extensions/security) - Google’s Security extension for the Gemini CLI that finds vulnerabilities in your code changes and pull requests.

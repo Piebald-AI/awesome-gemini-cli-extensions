@@ -20,6 +20,7 @@
 ## Image Generation
 
 - [nanobanana](https://github.com/gemini-cli-extensions/nanobanana) - Generate and manipulate images using the Gemini 2.5 Flash Image model (Nano Banana).
+- [Figma](https://github.com/figma/figma-gemini-cli-extension) - Official Figma extension for Gemini CLI.
 
 ## Multimodal Input
 

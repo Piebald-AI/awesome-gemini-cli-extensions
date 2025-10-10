@@ -33,6 +33,10 @@
 - [Gemini CLI Screen-share](https://github.com/automateyournetwork/GeminiCLI_ScreenShare_Extension) - Screen sharing via MCP and custom slash commands.
 - [Gemini CLI pyATS](https://github.com/automateyournetwork/pyATS_GeminiCLI_Extension) - pyATS integration for network testing.
 
+## Fonts
+
+- [Google Fonts](https://github.com/rodydavis/google-fonts-gemini-cli-extension) - Gemini CLI extension for Google Fonts + Material Icons and Symbols.
+
 ## Databases (Google Cloud)
 
 - [alloydb](https://github.com/gemini-cli-extensions/alloydb) - Instantly manage and query your AlloyDB for PostgreSQL databases.

@@ -40,6 +40,7 @@
 
 ## Development
 
+- [adk-docs-ext](https://github.com/derailed-dash/adk-docs-ext) - ADK Docs Extension for Gemini CLI.
 - [flutter](https://github.com/gemini-cli-extensions/flutter) - Help Gemini CLI create, build, test, and run Flutter apps.
 - [Firebase](https://github.com/gemini-cli-extensions/firebase) - Give the Gemini CLI more Firebase-specific capabilities and expertise.
 - [Firestore Native](https://github.com/gemini-cli-extensions/firestore-native) - Provides a set of tools to interact with Firestore databases. It allows you to manage your databases, documents, and collections directly from the Gemini CLI, using natural language prompts.

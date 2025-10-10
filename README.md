@@ -42,6 +42,7 @@
 
 ## Databases (General)
 
+- [Elasticsearch](https://github.com/elastic/gemini-cli-elasticsearch) - Official (experimental) Elasticsearch extension for Gemini CLI.
 - [mysql](https://github.com/gemini-cli-extensions/mysql) - Provides a set of tools to interact with MySQL instances.
 - [postgres](https://github.com/gemini-cli-extensions/postgres) - Provides a set of tools to interact with PostgreSQL instances.
 - [sql-server](https://github.com/gemini-cli-extensions/sql-server) - Provides a set of tools to interact with Microsoft SQL Server instances.

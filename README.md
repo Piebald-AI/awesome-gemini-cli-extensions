@@ -20,7 +20,6 @@
 ## Image Generation
 
 - [nanobanana](https://github.com/gemini-cli-extensions/nanobanana) - Generate and manipulate images using the Gemini 2.5 Flash Image model (Nano Banana).
-- [Figma](https://github.com/figma/figma-gemini-cli-extension) - Official Figma extension for Gemini CLI.
 
 ## Multimodal Input
 
@@ -33,9 +32,11 @@
 - [Gemini CLI Screen-share](https://github.com/automateyournetwork/GeminiCLI_ScreenShare_Extension) - Screen sharing via MCP and custom slash commands.
 - [Gemini CLI pyATS](https://github.com/automateyournetwork/pyATS_GeminiCLI_Extension) - pyATS integration for network testing.
 
-## Fonts
+## 3rd-Party Services
 
+- [Figma](https://github.com/figma/figma-gemini-cli-extension) - Official Figma extension for Gemini CLI.
 - [Google Fonts](https://github.com/rodydavis/google-fonts-gemini-cli-extension) - Gemini CLI extension for Google Fonts + Material Icons and Symbols.
+- [GitLab](https://github.com/GitLab-Ecosystem/Gemini-CLI-Extensions) - Exposes custom `/gitlab:*` commands that map directly to GitLab's documented MCP tools for issues, merge requests, pipelines, and search.
 
 ## Databases (Google Cloud)
 

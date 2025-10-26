@@ -17,9 +17,10 @@
 - [Cloud & Dev Tools](https://github.com/Piebald-AI/awesome-gemini-cli-extensions?tab=readme-ov-file#cloud--dev-tools)
 - [Development](https://github.com/Piebald-AI/awesome-gemini-cli-extensions?tab=readme-ov-file#development)
 
-## Image Generation
+## Image Generation & Rendering
 
 - [nanobanana](https://github.com/gemini-cli-extensions/nanobanana) - Generate and manipulate images using the Gemini 2.5 Flash Image model (Nano Banana).
+- [Blender](https://github.com/xprilion/gemini-cli-blender-extension) - A super simple extension to enable Blender via MCP for Gemini CLI.
 
 ## Multimodal Input
 

@@ -41,6 +41,7 @@
 
 ## Development
 
+- [Jules](https://github.com/gemini-cli-extensions/jules) - Allows you to use the Gemini CLI to orchestrate the Jules asynchronous agent to perform coding tasks like bug fixing, refactoring, and dependency updates.
 - [adk-docs-ext](https://github.com/derailed-dash/adk-docs-ext) - ADK Docs Extension for Gemini CLI.
 - [flutter](https://github.com/gemini-cli-extensions/flutter) - Help Gemini CLI create, build, test, and run Flutter apps.
 - [Firebase](https://github.com/gemini-cli-extensions/firebase) - Give the Gemini CLI more Firebase-specific capabilities and expertise.

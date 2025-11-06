@@ -39,8 +39,11 @@
 - [Google Fonts](https://github.com/rodydavis/google-fonts-gemini-cli-extension) - Gemini CLI extension for Google Fonts + Material Icons and Symbols.
 - [GitLab](https://github.com/GitLab-Ecosystem/Gemini-CLI-Extensions) - Exposes custom `/gitlab:*` commands that map directly to GitLab's documented MCP tools for issues, merge requests, pipelines, and search.
 
-## Development
+## Utilities
 
+- [Subnet calculator](https://github.com/automateyournetwork/GeminiCLI_SubnetCalculator_Extension) - An extension for GeminiCLI that performs subnet calculation.
+
+## Development
 
 - [Plan commands](https://github.com/jjdelorme/plan-commands) - Gemini CLI Extension with Custom Commands for plan, refine, implement.
 - [Jules](https://github.com/gemini-cli-extensions/jules) - Allows you to use the Gemini CLI to orchestrate the Jules asynchronous agent to perform coding tasks like bug fixing, refactoring, and dependency updates.
@@ -85,5 +88,5 @@
 
 ## Development
 
-- [code-review](https://github.com/gemini-cli-extensions/code-review) - Google’s Code Review extension for the Gemini CLI that reviews your code changes.
-- [security](https://github.com/gemini-cli-extensions/security) - Google’s Security extension for the Gemini CLI that finds vulnerabilities in your code changes and pull requests.
+- [code-review](https://github.com/gemini-cli-extensions/code-review) - Google's Code Review extension for the Gemini CLI that reviews your code changes.
+- [security](https://github.com/gemini-cli-extensions/security) - Google's Security extension for the Gemini CLI that finds vulnerabilities in your code changes and pull requests.

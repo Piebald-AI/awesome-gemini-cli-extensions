@@ -29,7 +29,8 @@
 
 ## Automation & Remote Access
 
-- [Listen](https://github.com/automateyournetwork/GeminiCLI_Listen_Extension) - Run Gemini-CLI as a server with /listen commands.
+- [Computer use](https://github.com/automateyournetwork/GeminiCLI_ComputerUse_Extension) - A Google Gemini CLI extension than enables Gemini Computer Use from the CLI.
+- [Listen](https://github.com/automateyournetwork/GeminiCLI_Listen_Extension) - Run Gemini CLI as a server with /listen commands.
 - [Screenshare](https://github.com/automateyournetwork/GeminiCLI_ScreenShare_Extension) - Screen sharing via MCP and custom slash commands.
 - [pyATS](https://github.com/automateyournetwork/pyATS_GeminiCLI_Extension) - pyATS integration for network testing.
 

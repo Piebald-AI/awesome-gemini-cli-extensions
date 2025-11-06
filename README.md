@@ -57,6 +57,7 @@
 
 ## Databases
 
+- [Neo4j](https://github.com/RubensZimbres/gemini-cli-neo4j-extension) - Neo4j extension for Gemini CLI.
 - [AlloyDB](https://github.com/gemini-cli-extensions/alloydb) - Instantly manage and query your AlloyDB for PostgreSQL databases.
 - [Google Cloud Spanner](https://github.com/gemini-cli-extensions/spanner) - Provides a set of tools to interact with Google Cloud Spanner instances.
 - [Google Cloud SQL for MySQL](https://github.com/gemini-cli-extensions/cloud-sql-mysql) - Provides a set of tools to interact with Cloud SQL for MySQL instances.

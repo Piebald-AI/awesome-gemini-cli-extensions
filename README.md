@@ -53,6 +53,8 @@
 - [flutter](https://github.com/gemini-cli-extensions/flutter) - Help Gemini CLI create, build, test, and run Flutter apps.
 - [Firebase](https://github.com/gemini-cli-extensions/firebase) - Give the Gemini CLI more Firebase-specific capabilities and expertise.
 - [Firestore Native](https://github.com/gemini-cli-extensions/firestore-native) - Provides a set of tools to interact with Firestore databases. It allows you to manage your databases, documents, and collections directly from the Gemini CLI, using natural language prompts.
+- [Run Long Command](https://github.com/stevenAthompson/run-long-command) - Provides Gemini CLI the ability to execute long running commands in the background asychronously by wrapping it in TMUX and injecting input.
+- [Self Command](https://github.com/stevenAthompson/self-command) - Allows Gemini CLI to send itself commands & prompts by wrapping it in TMUX and injecting input.
 
 ## Cloud & Dev Tools
 

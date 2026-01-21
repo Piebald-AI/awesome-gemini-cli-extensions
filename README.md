@@ -47,6 +47,7 @@
 
 ## Development
 
+- [gemini-beads](https://github.com/thoreinstein/gemini-beads) - Git-backed persistent memory and task management for Gemini CLI.
 - [Ralph Wiggum](https://github.com/AsyncFuncAI/ralph-wiggum-extension) - Ralph Wiggum loop for Gemini CLI
 - [code-review](https://github.com/gemini-cli-extensions/code-review) - Google's Code Review extension for the Gemini CLI that reviews your code changes.
 - [security](https://github.com/gemini-cli-extensions/security) - Google's Security extension for the Gemini CLI that finds vulnerabilities in your code changes and pull requests.
@@ -58,7 +59,6 @@
 - [Firestore Native](https://github.com/gemini-cli-extensions/firestore-native) - Provides a set of tools to interact with Firestore databases. It allows you to manage your databases, documents, and collections directly from the Gemini CLI, using natural language prompts.
 - [Run Long Command](https://github.com/stevenAthompson/run-long-command) - Provides Gemini CLI the ability to execute long running commands in the background asychronously by wrapping it in TMUX and injecting input.
 - [Self Command](https://github.com/stevenAthompson/self-command) - Allows Gemini CLI to send itself commands & prompts by wrapping it in TMUX and injecting input.
-- [gemini-beads](https://github.com/thoreinstein/gemini-beads) - Git-backed persistent memory and task management for Gemini CLI.
 
 ## Cloud & Dev Tools
 

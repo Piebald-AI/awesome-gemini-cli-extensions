@@ -47,6 +47,7 @@
 
 ## Development
 
+- [Pickle Rick](http://github.com/galz10/pickle-rick-extension) - This extension transforms the Gemini CLI into "Pickle Rick," a hyper-intelligent, arrogant, yet extremely competent engineering persona. It enforces a rigid, iterative software development lifecycle through continuous AI agent loops.
 - [gemini-beads](https://github.com/thoreinstein/gemini-beads) - Git-backed persistent memory and task management for Gemini CLI.
 - [Ralph Wiggum](https://github.com/AsyncFuncAI/ralph-wiggum-extension) - Ralph Wiggum loop for Gemini CLI
 - [code-review](https://github.com/gemini-cli-extensions/code-review) - Google's Code Review extension for the Gemini CLI that reviews your code changes.

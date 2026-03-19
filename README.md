@@ -62,6 +62,7 @@
 - [flutter](https://github.com/gemini-cli-extensions/flutter) - Help Gemini CLI create, build, test, and run Flutter apps.
 - [Firebase](https://github.com/gemini-cli-extensions/firebase) - Give the Gemini CLI more Firebase-specific capabilities and expertise.
 - [Firestore Native](https://github.com/gemini-cli-extensions/firestore-native) - Provides a set of tools to interact with Firestore databases. It allows you to manage your databases, documents, and collections directly from the Gemini CLI, using natural language prompts.
+- [Maestro](https://github.com/josstei/maestro-gemini) - Turn Gemini CLI into a multi-agent platform — 12 specialized subagents, parallel dispatch, 4-phase orchestration, and standalone dev tools for code review, debugging, security, and performance.
 
 ## Cloud & Dev Tools
 

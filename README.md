@@ -43,6 +43,7 @@
 - [Obsidian](https://github.com/thoreinstein/gemini-obsidian) - Connect Gemini to your Obsidian vault through a local RAG MCP server with `/obsidian:*` commands to interact with your vault.
 - [TokRepo](https://github.com/henu-wang/tokrepo-gemini-extension) - Search TokRepo from Gemini CLI to find installable skills, prompts, MCP configs, and workflows with the bundled TokRepo MCP server.
 - [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data MCP server & AI agent skill. 20 tools for followers, tweets, replies, mentions, lists, hashtags, spaces & more.
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) - Remote MCP server for real-time market intelligence, ML options pricing, and news bias analysis. Free, no API key. Remote endpoint: https://heliumtrades.com/mcp
 ## Utilities
 
 - [Gemini Notifier](https://github.com/thoreinstein/gemini-notifier) - A Gemini extension to send native system-level notifications when Gemini requests permissions.

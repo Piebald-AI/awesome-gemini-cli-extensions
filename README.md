@@ -21,6 +21,7 @@
 
 - [nanobanana](https://github.com/gemini-cli-extensions/nanobanana) - Generate and manipulate images using the Gemini 2.5 Flash Image model (Nano Banana).
 - [Blender](https://github.com/xprilion/gemini-cli-blender-extension) - A super simple extension to enable Blender via MCP for Gemini CLI.
+- [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server that generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing prompts across 30+ image generation models. Zero API key required for first run via free tiers. `npm install -g prompt-to-asset`.
 
 ## Multimodal Input
 
@@ -47,6 +48,7 @@
 ## Utilities
 
 - [Gemini Notifier](https://github.com/thoreinstein/gemini-notifier) - A Gemini extension to send native system-level notifications when Gemini requests permissions.
+- [unslop](https://github.com/MohamedAbdallah-14/unslop) - CLI that strips AI writing patterns from content before publishing: sycophantic openers, stock vocabulary, hedging stacks, em-dash overuse. Code blocks, URLs, and technical terms pass through unchanged. Pipe mode for scripting: `cat draft.md | unslop --stdin`. `npm install -g unslop`.
 - [Subnet calculator](https://github.com/automateyournetwork/GeminiCLI_SubnetCalculator_Extension) - An extension for GeminiCLI that performs subnet calculation.
 - [Packet Buddy](https://github.com/automateyournetwork/GeminiCLI_Packet_Buddy_Extension) - A Gemini CLI extension that uses RAG and MCP and Custom Slash Commands to analyze packet captures.
 

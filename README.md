@@ -45,6 +45,7 @@
 - [TokRepo](https://github.com/henu-wang/tokrepo-gemini-extension) - Search TokRepo from Gemini CLI to find installable skills, prompts, MCP configs, and workflows with the bundled TokRepo MCP server.
 - [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data MCP server & AI agent skill. 20 tools for followers, tweets, replies, mentions, lists, hashtags, spaces & more.
 - [Helium MCP](https://github.com/connerlambden/helium-mcp) - Remote MCP server for real-time market intelligence, ML options pricing, and news bias analysis. Free, no API key. Remote endpoint: https://heliumtrades.com/mcp
+- [Onplana](https://github.com/Onplana/onplana-mcp-server) - Connect Gemini CLI and Code Assist to your Onplana project portfolio. 27 tools (14 read, 13 write), OAuth 2.0 with Dynamic Client Registration. Install: `gemini extensions install https://github.com/Onplana/onplana-mcp-server`.
 ## Utilities
 
 - [Gemini Notifier](https://github.com/thoreinstein/gemini-notifier) - A Gemini extension to send native system-level notifications when Gemini requests permissions.

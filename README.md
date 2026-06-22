@@ -38,11 +38,11 @@
 
 ## 3rd-Party Services
 
+- [Lusha](https://github.com/lusha-oss/lusha-mcp-plugin) - Find and enrich B2B contacts and companies with verified emails, direct dials, mobile numbers, and real-time buying signals. Bundles 4 prospecting skills plus a remote MCP server, with OAuth sign-in. Install: `gemini extensions install https://github.com/lusha-oss/lusha-mcp-plugin`.
 - [ATXP](https://github.com/atxp-dev/atxp) - Give your Gemini CLI agent a wallet, email address, phone number, and 100+ paid MCP tools (web search, image gen, SMS, voice, LLM gateway). Self-register with `gemini extensions install https://github.com/atxp-dev/atxp` — no human login required, $5 free credits included.
 - [Figma](https://github.com/figma/figma-gemini-cli-extension) - Official Figma extension for Gemini CLI.
 - [Google Fonts](https://github.com/rodydavis/google-fonts-gemini-cli-extension) - Gemini CLI extension for Google Fonts + Material Icons and Symbols.
 - [GitLab](https://github.com/GitLab-Ecosystem/Gemini-CLI-Extensions) - Exposes custom `/gitlab:*` commands that map directly to GitLab's documented MCP tools for issues, merge requests, pipelines, and search.
-- [Lusha](https://github.com/lusha-oss/lusha-mcp-plugin) - Find and enrich B2B contacts and companies with verified emails, direct dials, mobile numbers, and real-time buying signals. Bundles 4 prospecting skills plus a remote MCP server, with OAuth sign-in. Install: `gemini extensions install https://github.com/lusha-oss/lusha-mcp-plugin`.
 - [Obsidian](https://github.com/thoreinstein/gemini-obsidian) - Connect Gemini to your Obsidian vault through a local RAG MCP server with `/obsidian:*` commands to interact with your vault.
 - [TokRepo](https://github.com/henu-wang/tokrepo-gemini-extension) - Search TokRepo from Gemini CLI to find installable skills, prompts, MCP configs, and workflows with the bundled TokRepo MCP server.
 - [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data MCP server & AI agent skill. 20 tools for followers, tweets, replies, mentions, lists, hashtags, spaces & more.

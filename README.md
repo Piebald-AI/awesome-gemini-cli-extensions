@@ -49,6 +49,7 @@
 - [Helium MCP](https://github.com/connerlambden/helium-mcp) - Remote MCP server for real-time market intelligence, ML options pricing, and news bias analysis. Free, no API key. Remote endpoint: https://heliumtrades.com/mcp
 - [Onplana](https://github.com/Onplana/onplana-mcp-server) - Connect Gemini CLI and Code Assist to your Onplana project portfolio. 27 tools (14 read, 13 write), OAuth 2.0 with Dynamic Client Registration. Install: `gemini extensions install https://github.com/Onplana/onplana-mcp-server`.
 - [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP server for AI agent wallet identity on Solana. Verify agent wallets before x402 micropayments. 4 free tools: resolve_agent, score_agent, preflight_check, verify_trust_receipt. Remote endpoint: https://intel.twzrd.xyz/mcp
+- [Shots](https://github.com/hitSlop/shots) - App Store screenshot, app icon, and ASO listing copy generation for mobile apps. Remote MCP server with OAuth authentication. Remote endpoint: `https://shots.run/api/mcp`. Install: `gemini mcp add --transport http shots https://shots.run/api/mcp`.
 
 ## Utilities
 

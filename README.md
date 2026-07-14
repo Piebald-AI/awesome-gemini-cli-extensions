@@ -77,6 +77,7 @@
 - [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) - Open-source MCP server connecting AI agents to the Unity Editor and runtime, with 100+ built-in tools.
 - [Godot-MCP](https://github.com/IvanMurzak/Godot-MCP) - Open-source MCP server connecting AI agents to the Godot Editor and runtime (Godot 4.x, C#).
 - [Unreal-MCP](https://github.com/IvanMurzak/Unreal-MCP) - Open-source MCP server connecting AI agents to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar).
+- [PickySteve](https://github.com/KernelLord/pickysteve) - Skill router and context picker for coding agents: a cheap local model retrieves and reranks the right skill (BM25 + embeddings, cross-encoder rerank), gated by a fail-closed prompt-injection scanner that checks both the request and every retrieved doc. Wires into Gemini CLI as an MCP stdio server via a one-command installer (`~/.gemini/settings.json`); runs offline on local Ollama by default.
 
 ## Cloud & Dev Tools
 

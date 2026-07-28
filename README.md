@@ -109,6 +109,7 @@
 
 ## Data & Analytics
 
+- [emem](https://github.com/Vortx-AI/emem) - Shared, verifiable Earth memory for AI agents. Recall Ed25519-signed, BLAKE3 content-addressed facts about air quality, vegetation, flood, fire, elevation, and deforestation for any place on Earth. No API key, no signup. Install: `gemini extensions install https://emem.dev/gemini-extension.json`.
 - [BigQuery Conversational Analytics](https://github.com/gemini-cli-extensions/bigquery-conversational-analytics) - Developers can effortlessly connect, interact, and generate data insights with BigQuery datasets and data using natural language commands.
 - [BigQuery Data Analytics](https://github.com/gemini-cli-extensions/bigquery-data-analytics) - Developers can effortlessly connect, interact, and generate data insights with BigQuery datasets and data using natural language commands.
 - [Dataplex](https://github.com/gemini-cli-extensions/dataplex) - Provides a set of tools to interact with Dataplex instances. It allows you to manage your data lakes, zones, and assets directly from the Gemini CLI, using natural language prompts.

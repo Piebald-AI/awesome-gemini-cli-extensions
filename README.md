@@ -51,6 +51,7 @@
 - [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP server for AI agent wallet identity on Solana. Verify agent wallets before x402 micropayments. 4 free tools: resolve_agent, score_agent, preflight_check, verify_trust_receipt. Remote endpoint: https://intel.twzrd.xyz/mcp
 - [Shots](https://github.com/hitSlop/shots) - App Store screenshot, app icon, and ASO listing copy generation for mobile apps. Remote MCP server with OAuth authentication. Remote endpoint: `https://shots.run/api/mcp`. Install: `gemini mcp add --transport http shots https://shots.run/api/mcp`.
 - [RunAPI MCP](https://github.com/runapi-ai/mcp) - Remote MCP server for model catalog discovery, pricing checks, and image, video, music, audio, and other model API tasks. Remote endpoint: `https://mcp.runapi.ai/mcp`. Install: `gemini mcp add --transport http runapi https://mcp.runapi.ai/mcp`.
+- [**Hexis**](https://github.com/Bevel-Software/Hexis) - Git-backed platform for skills, tools, and context for AI agents. Connect the remote MCP endpoint at `https://demo.bevel.software/api/mcp`.
 
 ## Utilities
 

@@ -81,6 +81,7 @@
 - [Unreal-MCP](https://github.com/IvanMurzak/Unreal-MCP) - Open-source MCP server connecting AI agents to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar).
 - [PickySteve](https://github.com/KernelLord/pickysteve) - Skill router and context picker for coding agents: a cheap local model retrieves and reranks the right skill (BM25 + embeddings, cross-encoder rerank), gated by a fail-closed prompt-injection scanner that checks both the request and every retrieved doc. Wires into Gemini CLI as an MCP stdio server via a one-command installer (`~/.gemini/settings.json`); runs offline on local Ollama by default.
 - [Find MCP](https://github.com/agentage/find-mcp) - Search 17,000+ MCP servers from the official MCP registry (registry.modelcontextprotocol.io). Remote endpoint: `https://catalog.agentage.io/mcp`. Install: `gemini mcp add --transport http find-mcp https://catalog.agentage.io/mcp`, or stdio via `npx -y @agentage/find-mcp`.
+- [Lians](https://github.com/Lians-ai/Lians) - Open-source, local-first memory for Gemini CLI and other AI agents, with durable cross-session recall and no account or API key. Install: `gemini extensions install https://github.com/Lians-ai/Lians`.
 
 ## Cloud & Dev Tools
 

@@ -58,6 +58,7 @@
 - [unslop](https://github.com/MohamedAbdallah-14/unslop) - CLI that strips AI writing patterns from content before publishing: sycophantic openers, stock vocabulary, hedging stacks, em-dash overuse. Code blocks, URLs, and technical terms pass through unchanged. Pipe mode for scripting: `cat draft.md | unslop --stdin`. `npm install -g unslop`.
 - [Subnet calculator](https://github.com/automateyournetwork/GeminiCLI_SubnetCalculator_Extension) - An extension for GeminiCLI that performs subnet calculation.
 - [Packet Buddy](https://github.com/automateyournetwork/GeminiCLI_Packet_Buddy_Extension) - A Gemini CLI extension that uses RAG and MCP and Custom Slash Commands to analyze packet captures.
+- [**Meanwhile**](https://github.com/vaddisrinivas/meanwhile) - Offers one optional, bounded focus, recovery, learning, play, or reality-check quest while Gemini CLI continues substantial work. No account, telemetry, or completion tracking.
 
 ## Development
 

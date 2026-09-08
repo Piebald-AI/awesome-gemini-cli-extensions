@@ -84,6 +84,7 @@
 - [Lians](https://github.com/Lians-ai/Lians) - Open-source, local-first memory for Gemini CLI and other AI agents, with durable cross-session recall and no account or API key. Install: `gemini extensions install https://github.com/Lians-ai/Lians`.
 - [ArmorGemini](https://github.com/armoriq/armorGemini) - Intent-based security enforcement for the Gemini CLI. Every tool call is checked against your ArmorIQ policy via `BeforeTool` / `AfterTool` hooks. Blocks intent drift, unauthorized tool use, and PII/PCI leaks. Install: `curl -fsSL https://armoriq.ai/install_armorgemini.sh | bash`.
 - [deja](https://github.com/vshulcz/deja-vu) - Searches the coding sessions already on your disk — Gemini CLI plus nineteen other tools — so a new session can recall work from before deja was installed. Local Go binary, BM25, no LLM and no account.
+- [Mnemoverse Memory](https://github.com/mnemoverse/gemini-extension) - Hosted memory shared across MCP clients: a memory written from Gemini CLI is readable from Claude Code, Cursor, VS Code or any other MCP client on the same account. Remote Streamable HTTP with OAuth sign-in, so there is no API key to paste into a config file.
 
 ## Cloud & Dev Tools
 

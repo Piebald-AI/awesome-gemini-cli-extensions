@@ -41,6 +41,7 @@
 
 - [Lusha](https://github.com/lusha-oss/lusha-mcp-plugin) - Find and enrich B2B contacts and companies with verified emails, direct dials, mobile numbers, and real-time buying signals. Bundles 4 prospecting skills plus a remote MCP server, with OAuth sign-in. Install: `gemini extensions install https://github.com/lusha-oss/lusha-mcp-plugin`.
 - [ATXP](https://github.com/atxp-dev/atxp) - Give your Gemini CLI agent a wallet, email address, phone number, and 100+ paid MCP tools (web search, image gen, SMS, voice, LLM gateway). Self-register with `gemini extensions install https://github.com/atxp-dev/atxp` — no human login required, $5 free credits included.
+- [Zambo](https://github.com/zambodotdev/zambo-mcp) - Give your AI hands. One URL. Type a job. Get a receipt. 120 native MCP tools across 17 products behind one zero-auth remote endpoint — free 20 calls/tool/day, no account. Install: `gemini extensions install https://github.com/zambodotdev/zambo-mcp`.
 - [Figma](https://github.com/figma/figma-gemini-cli-extension) - Official Figma extension for Gemini CLI.
 - [Google Fonts](https://github.com/rodydavis/google-fonts-gemini-cli-extension) - Gemini CLI extension for Google Fonts + Material Icons and Symbols.
 - [GitLab](https://github.com/GitLab-Ecosystem/Gemini-CLI-Extensions) - Exposes custom `/gitlab:*` commands that map directly to GitLab's documented MCP tools for issues, merge requests, pipelines, and search.

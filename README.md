@@ -88,6 +88,7 @@
 - [deja](https://github.com/vshulcz/deja-vu) - Searches the coding sessions already on your disk — Gemini CLI plus nineteen other tools — so a new session can recall work from before deja was installed. Local Go binary, BM25, no LLM and no account.
 - [Mnemoverse Memory](https://github.com/mnemoverse/gemini-extension) - Hosted memory shared across MCP clients: a memory written from Gemini CLI is readable from Claude Code, Cursor, VS Code or any other MCP client on the same account. Remote Streamable HTTP with OAuth sign-in, so there is no API key to paste into a config file.
 - [YYLO](https://github.com/yylo-dev/yylo) - Kanban-driven CLI orchestrator that runs Gemini CLI alongside Claude Code and Codex in parallel across isolated git worktrees, with a merge queue that reviews and merges verified task work. Git-native task state, per-agent worktree isolation, installable via npm. MIT.
+- [**Fidelis Memory**](https://github.com/hermes-labs-ai/fidelis) - Local-first, zero-LLM memory for Gemini CLI and other agents: BM25 and dense-vector retrieval fused with reciprocal rank fusion returns your original stored passages verbatim, not summaries. Adds `fidelis_orient`, `fidelis_recall`, `fidelis_query`, and `fidelis_health` MCP tools. Needs local Ollama (`nomic-embed-text`) and a one-time `fidelis init`. Install: `gemini extensions install https://github.com/hermes-labs-ai/fidelis`. MIT.
 
 ## Cloud & Dev Tools
 

@@ -54,6 +54,8 @@
 - [RunAPI MCP](https://github.com/runapi-ai/mcp) - Remote MCP server for model catalog discovery, pricing checks, and image, video, music, audio, and other model API tasks. Remote endpoint: `https://mcp.runapi.ai/mcp`. Install: `gemini mcp add --transport http runapi https://mcp.runapi.ai/mcp`.
 - [**Hexis**](https://github.com/Bevel-Software/Hexis) - Git-backed platform for skills, tools, and context for AI agents. Connect the remote MCP endpoint at `https://demo.bevel.software/api/mcp`.
 
+- [**Cohesivity**](https://github.com/cohesivity-org/cohesivity-plugin/tree/main/packages/gemini) - cohesivity.ai offers free agent native backend services. Anonymous account (no-signup) to get started through MCP or API. Hosting, postgres, email, storage, containers, LLMs, voice and third-party APIs. Includes free tiers and 5 USD/mo in AI and Search credits. Top-ups through x402.
+
 ## Utilities
 
 - [tldr](https://github.com/SurefireStudios/tldr) - Leads every response with a three-line TL;DR and folds the full detail underneath, so the answer is not buried. Never folds destructive commands, security findings, verbatim errors or diffs. Returns a parseable block for agent-to-agent reports.

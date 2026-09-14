@@ -36,6 +36,7 @@
 - [Screenshare](https://github.com/automateyournetwork/GeminiCLI_ScreenShare_Extension) - Screen sharing via MCP and custom slash commands.
 - [pyATS](https://github.com/automateyournetwork/pyATS_GeminiCLI_Extension) - pyATS integration for network testing.
 - [**gemini-discord**](https://github.com/Yamato-main/gemini-discord) - Turn your local Gemini CLI agent into an always-on Discord presence that also doubles as your personal server admin.
+- [AIHawk](https://github.com/feder-cr/AIHawk) - Drive a real Firefox from plain-English instructions: open pages, click, type, read and screenshot, through the real pointer and keyboard on a patched browser. Install: `gemini extensions install https://github.com/feder-cr/AIHawk`.
 
 ## 3rd-Party Services
 

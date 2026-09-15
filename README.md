@@ -35,7 +35,7 @@
 - [Listen](https://github.com/automateyournetwork/GeminiCLI_Listen_Extension) - Run Gemini CLI as a server with /listen commands.
 - [Screenshare](https://github.com/automateyournetwork/GeminiCLI_ScreenShare_Extension) - Screen sharing via MCP and custom slash commands.
 - [pyATS](https://github.com/automateyournetwork/pyATS_GeminiCLI_Extension) - pyATS integration for network testing.
-- [**gemini-discord**](https://github.com/Yamato-main/gemini-discord) - Turn your local Gemini CLI agent into an always-on Discord presence that also doubles as your personal server admin.
+- [gemini-discord](https://github.com/Yamato-main/gemini-discord) - Turn your local Gemini CLI agent into an always-on Discord presence that also doubles as your personal server admin.
 - [AIHawk](https://github.com/feder-cr/AIHawk) - Drive a real Firefox from plain-English instructions: open pages, click, type, read and screenshot, through the real pointer and keyboard on a patched browser. Install: `gemini extensions install https://github.com/feder-cr/AIHawk`.
 
 ## 3rd-Party Services
@@ -52,9 +52,9 @@
 - [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP server for AI agent wallet identity on Solana. Verify agent wallets before x402 micropayments. 4 free tools: resolve_agent, score_agent, preflight_check, verify_trust_receipt. Remote endpoint: https://intel.twzrd.xyz/mcp
 - [Shots](https://github.com/hitSlop/shots) - App Store screenshot, app icon, and ASO listing copy generation for mobile apps. Remote MCP server with OAuth authentication. Remote endpoint: `https://shots.run/api/mcp`. Install: `gemini mcp add --transport http shots https://shots.run/api/mcp`.
 - [RunAPI MCP](https://github.com/runapi-ai/mcp) - Remote MCP server for model catalog discovery, pricing checks, and image, video, music, audio, and other model API tasks. Remote endpoint: `https://mcp.runapi.ai/mcp`. Install: `gemini mcp add --transport http runapi https://mcp.runapi.ai/mcp`.
-- [**Hexis**](https://github.com/Bevel-Software/Hexis) - Git-backed platform for skills, tools, and context for AI agents. Connect the remote MCP endpoint at `https://demo.bevel.software/api/mcp`.
+- [Hexis](https://github.com/Bevel-Software/Hexis) - Git-backed platform for skills, tools, and context for AI agents. Connect the remote MCP endpoint at `https://demo.bevel.software/api/mcp`.
 
-- [**Cohesivity**](https://github.com/cohesivity-org/cohesivity-plugin/tree/main/packages/gemini) - cohesivity.ai offers free agent native backend services. Anonymous account (no-signup) to get started through MCP or API. Hosting, postgres, email, storage, containers, LLMs, voice and third-party APIs. Includes free tiers and 5 USD/mo in AI and Search credits. Top-ups through x402.
+- [Cohesivity](https://github.com/cohesivity-org/cohesivity-plugin/tree/main/packages/gemini) - cohesivity.ai offers free agent native backend services. Anonymous account (no-signup) to get started through MCP or API. Hosting, postgres, email, storage, containers, LLMs, voice and third-party APIs. Includes free tiers and 5 USD/mo in AI and Search credits. Top-ups through x402.
 
 ## Utilities
 
@@ -92,8 +92,9 @@
 - [deja](https://github.com/vshulcz/deja-vu) - Searches the coding sessions already on your disk — Gemini CLI plus nineteen other tools — so a new session can recall work from before deja was installed. Local Go binary, BM25, no LLM and no account.
 - [Mnemoverse Memory](https://github.com/mnemoverse/gemini-extension) - Hosted memory shared across MCP clients: a memory written from Gemini CLI is readable from Claude Code, Cursor, VS Code or any other MCP client on the same account. Remote Streamable HTTP with OAuth sign-in, so there is no API key to paste into a config file.
 - [YYLO](https://github.com/yylo-dev/yylo) - Kanban-driven CLI orchestrator that runs Gemini CLI alongside Claude Code and Codex in parallel across isolated git worktrees, with a merge queue that reviews and merges verified task work. Git-native task state, per-agent worktree isolation, installable via npm. MIT.
-- [**Fidelis Memory**](https://github.com/hermes-labs-ai/fidelis) - Local-first, zero-LLM memory for Gemini CLI and other agents: BM25 and dense-vector retrieval fused with reciprocal rank fusion returns your original stored passages verbatim, not summaries. Adds `fidelis_orient`, `fidelis_recall`, `fidelis_query`, and `fidelis_health` MCP tools. Needs local Ollama (`nomic-embed-text`) and a one-time `fidelis init`. Install: `gemini extensions install https://github.com/hermes-labs-ai/fidelis`. MIT.
-- [**lintlang**](https://github.com/hermes-labs-ai/lintlang) - Static analysis for AI agent configs, tool descriptions, and system prompts: catches vague tool descriptions, missing stop conditions, and schema gaps before they reach runtime. Zero-LLM, deterministic checks, built for CI. Install: `gemini extensions install https://github.com/hermes-labs-ai/lintlang`.
+- [Fidelis Memory](https://github.com/hermes-labs-ai/fidelis) - Local-first, zero-LLM memory for Gemini CLI and other agents: BM25 and dense-vector retrieval fused with reciprocal rank fusion returns your original stored passages verbatim, not summaries. Adds `fidelis_orient`, `fidelis_recall`, `fidelis_query`, and `fidelis_health` MCP tools. Needs local Ollama (`nomic-embed-text`) and a one-time `fidelis init`. Install: `gemini extensions install https://github.com/hermes-labs-ai/fidelis`. MIT.
+- [lintlang](https://github.com/hermes-labs-ai/lintlang) - Static analysis for AI agent configs, tool descriptions, and system prompts: catches vague tool descriptions, missing stop conditions, and schema gaps before they reach runtime. Zero-LLM, deterministic checks, built for CI. Install: `gemini extensions install https://github.com/hermes-labs-ai/lintlang`.
+- [little-canary](https://github.com/hermes-labs-ai/little-canary) - Detects prompt injection by its effect on a sacrificial canary model, not just pattern matching: untrusted input hits a powerless model first, a behavioral check reads the residue, and it returns block, flag, or pass before your primary model acts. Inbound preflight sensor, not a guarantee.
 
 ## Cloud & Dev Tools
 

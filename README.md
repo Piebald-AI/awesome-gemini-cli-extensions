@@ -93,6 +93,7 @@
 - [Mnemoverse Memory](https://github.com/mnemoverse/gemini-extension) - Hosted memory shared across MCP clients: a memory written from Gemini CLI is readable from Claude Code, Cursor, VS Code or any other MCP client on the same account. Remote Streamable HTTP with OAuth sign-in, so there is no API key to paste into a config file.
 - [YYLO](https://github.com/yylo-dev/yylo) - Kanban-driven CLI orchestrator that runs Gemini CLI alongside Claude Code and Codex in parallel across isolated git worktrees, with a merge queue that reviews and merges verified task work. Git-native task state, per-agent worktree isolation, installable via npm. MIT.
 - [**Fidelis Memory**](https://github.com/hermes-labs-ai/fidelis) - Local-first, zero-LLM memory for Gemini CLI and other agents: BM25 and dense-vector retrieval fused with reciprocal rank fusion returns your original stored passages verbatim, not summaries. Adds `fidelis_orient`, `fidelis_recall`, `fidelis_query`, and `fidelis_health` MCP tools. Needs local Ollama (`nomic-embed-text`) and a one-time `fidelis init`. Install: `gemini extensions install https://github.com/hermes-labs-ai/fidelis`. MIT.
+- [**little-canary**](https://github.com/hermes-labs-ai/little-canary) - Detects prompt injection by its effect on a sacrificial canary model, not just pattern matching: untrusted input hits a powerless model first, a behavioral check reads the residue, and it returns block, flag, or pass before your primary model acts. Inbound preflight sensor, not a guarantee.
 
 ## Cloud & Dev Tools
 

@@ -55,6 +55,7 @@
 - [Hexis](https://github.com/Bevel-Software/Hexis) - Git-backed platform for skills, tools, and context for AI agents. Connect the remote MCP endpoint at `https://demo.bevel.software/api/mcp`.
 
 - [Cohesivity](https://github.com/cohesivity-org/cohesivity-plugin/tree/main/packages/gemini) - cohesivity.ai offers free agent native backend services. Anonymous account (no-signup) to get started through MCP or API. Hosting, postgres, email, storage, containers, LLMs, voice and third-party APIs. Includes free tiers and 5 USD/mo in AI and Search credits. Top-ups through x402.
+- [ParseRail](https://github.com/kyisaiah47/compound-gemini-extension) - Documents and messy text into schema-validated JSON: invoices, receipts, bank and card statements, contracts, resumes and embedded tables, plus PII redaction, contract review, field extraction against a JSON Schema you supply, classification, triage and moderation. 41 tools from one credit wallet. The free tier is 500 credits a month with no card, and a failed call is not charged. Install: `gemini extensions install https://github.com/kyisaiah47/compound-gemini-extension`.
 
 ## Utilities
 

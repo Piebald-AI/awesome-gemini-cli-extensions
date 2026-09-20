@@ -133,3 +133,4 @@
 - [BigQuery Data Analytics](https://github.com/gemini-cli-extensions/bigquery-data-analytics) - Developers can effortlessly connect, interact, and generate data insights with BigQuery datasets and data using natural language commands.
 - [Dataplex](https://github.com/gemini-cli-extensions/dataplex) - Provides a set of tools to interact with Dataplex instances. It allows you to manage your data lakes, zones, and assets directly from the Gemini CLI, using natural language prompts.
 - [Looker](https://github.com/gemini-cli-extensions/looker) - Provides a set of tools to interact with Looker instances. It allows you to manage your Looks, dashboards, and explores directly from the Gemini CLI, using natural language prompts.
+- [**Minds**](https://github.com/minds-ai-co/minds-mcp) - Run synthetic market research from the CLI: create AI audiences, interview them, and run studies such as MaxDiff, conjoint and NPS.

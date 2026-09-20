@@ -58,6 +58,7 @@
 - [ParseRail](https://github.com/kyisaiah47/compound-gemini-extension) - Documents and messy text into schema-validated JSON: invoices, receipts, bank and card statements, contracts, resumes and embedded tables, plus PII redaction, contract review, field extraction against a JSON Schema you supply, classification, triage and moderation. 41 tools from one credit wallet. The free tier is 500 credits a month with no card, and a failed call is not charged. Install: `gemini extensions install https://github.com/kyisaiah47/compound-gemini-extension`.
 
 ## Utilities
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — a developer tool that makes agent runs reproducible.
 
 - [tldr](https://github.com/SurefireStudios/tldr) - Leads every response with a three-line TL;DR and folds the full detail underneath, so the answer is not buried. Never folds destructive commands, security findings, verbatim errors or diffs. Returns a parseable block for agent-to-agent reports.
 - [Gemini Notifier](https://github.com/thoreinstein/gemini-notifier) - A Gemini extension to send native system-level notifications when Gemini requests permissions.

@@ -99,6 +99,7 @@
 - [little-canary](https://github.com/hermes-labs-ai/little-canary) - Detects prompt injection by its effect on a sacrificial canary model, not just pattern matching: untrusted input hits a powerless model first, a behavioral check reads the residue, and it returns block, flag, or pass before your primary model acts. Inbound preflight sensor, not a guarantee.
 - [kgai](https://github.com/kgaidev/kgai-gemini) - Shared decision memory for AI dev teams. Your agent records why the code changed and the dead ends it ruled out, recalls only what is still in force before the next edit, and syncs the log across the team over an S3 bucket you own, with no merge conflicts. Local-first, immutable, no server. Install: `gemini extensions install https://github.com/kgaidev/kgai-gemini`. MIT.
 - [supercov](https://github.com/supercorp-ai/supercov) - Coverage, security and code quality for coding agents. Install: `gemini extensions install https://github.com/supercorp-ai/supercov`
+- [since-cutoff](https://github.com/MohammadHijjawi97/since-cutoff) - Lists which APIs of your pinned Python dependencies changed after your model's training cutoff, from a static diff of the two releases (no model calls, no API key), and writes short AGENTS.md notes; the extension starts its MCP server. Install: `gemini extensions install https://github.com/MohammadHijjawi97/since-cutoff`
 
 ## Cloud & Dev Tools
 

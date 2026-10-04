@@ -60,6 +60,7 @@
 - [Court Rules](https://github.com/foklepoint/court-rules-mcp) - Judge-level U.S. court filing rules, local rules, standing orders and court holidays with deadline checks, served from a hosted MCP endpoint. Install: `gemini extensions install https://github.com/foklepoint/court-rules-mcp`.
 - [PlaceCall](https://github.com/voygr-tech/placecall) - Places real outbound phone calls to US businesses (bookings, inquiries, quotes) and returns the outcome and transcript. Bundles a skill plus the remote MCP server `https://api.voygr.tech/mcp`; the API key is a sensitive extension setting. Paid API. Install: `gemini extensions install https://github.com/voygr-tech/placecall`.
 - [8B AI Website Builder](https://github.com/8bsite/8b-agent-plugin) - Build an animated one-page website from Gemini CLI in an 8B generated design: preview link, plain-word edits, one HTML file. Remote endpoint: `https://mcp.8b.com/mcp`, no account or API key. Install: `gemini extensions install https://github.com/8bsite/8b-agent-plugin`.
+- [**Connections**](https://github.com/Lunarwerx/connections-gemini-extension) - Contacts, follow-ups, event pages with ticketing, notes and email from Gemini CLI, on a free Connections account with no card. Remote MCP server with OAuth sign-in in the browser on first use; nothing runs locally. Remote endpoint: `https://studio.connections.icu/v1/mcp`. Install: `gemini extensions install https://github.com/Lunarwerx/connections-gemini-extension`.
 
 ## Utilities
 

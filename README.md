@@ -111,6 +111,7 @@
 - [since-cutoff](https://github.com/MohammadHijjawi97/since-cutoff) - Lists which APIs of your pinned Python dependencies changed after your model's training cutoff, from a static diff of the two releases (no model calls, no API key), and writes short AGENTS.md notes; the extension starts its MCP server. Install: `gemini extensions install https://github.com/MohammadHijjawi97/since-cutoff`
 - [Darkmoon](https://github.com/ASCIT31/darkmoon-mcp-server) - Start autonomous AI penetration tests, poll run status, list campaigns and read findings from your self-hosted Darkmoon Pro instance through a 4-tool MCP server (`@darkmoon_ai/mcp-server`). Needs `DARKMOON_BASE_URL` and credentials; `run_pentest` is not read-only, so only target systems you are authorized to test. Install: `gemini extensions install https://github.com/ASCIT31/darkmoon-mcp-server`.
 - [dejavu](https://github.com/WhiteBite/dejavu-gates) - Cross-session error gates: recurring tool-call failures become enforced remind-first, block-on-repeat gates via BeforeTool/AfterTool hooks. One store shared with Claude Code, Codex, OpenCode, Cursor and more. Install: `gemini extensions install https://github.com/WhiteBite/dejavu-gates`. MIT.
+- [**Bestax**](https://github.com/allxsmith/bestax-skills) - Skills and an MCP server for building React apps with Bestax, a component library for Bulma v1: props, examples, CSS variables, theming and forms.
 
 ## Cloud & Dev Tools
 

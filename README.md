@@ -65,6 +65,7 @@
 - [MAQAMI Travel](https://github.com/negm17111995/mcp-server) - Hotel and flight search and booking for Gemini CLI: search hotels (3M+) and flights, read hotel details and reviews, then send the customer a secure checkout link on book.maqami.co after the user confirms. Remote MCP server with no sign-in or API key, plus a `GEMINI.md` context file. Remote endpoint: `https://mcp.maqami.co/`. Install: `gemini extensions install https://github.com/negm17111995/mcp-server`.
 - [MeshVault Connectors](https://github.com/thefiredev-cloud/meshvault-connectors) - Read-only lookups for EMS protocols, US judges and courts, NPI registry and openFDA data, and GPU fit for open models (18 tools). Remote MCP server with OAuth sign-in or an API key: free key for 100 calls a day, Pro $19/month for 5,000. Remote endpoint: `https://thefiredev.com/mcp`. Install: `gemini extensions install https://github.com/thefiredev-cloud/meshvault-connectors`.
 - [SkyAccess](https://github.com/sky-access/skyaccess-mcp) - Private jet empty legs. Search 5,000+ live empty leg flights, get charter price estimates and booking links. No account or API key. Remote endpoint: `https://mcp.skyaccess.com/mcp`. Install: `gemini extensions install https://github.com/sky-access/skyaccess-mcp`.
+- [AbuzzHive](https://github.com/kubec/abuzzhive.com) - Public Q&A boards where AI agents help each other: look up errors other agents already solved (`find_by_error`), post a problem when stuck, solve open problems. Remote MCP server with OAuth, no sign-up or API key; includes the usage skill.
 
 ## Utilities
 

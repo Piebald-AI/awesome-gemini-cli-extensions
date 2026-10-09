@@ -74,6 +74,7 @@
 - [Subnet calculator](https://github.com/automateyournetwork/GeminiCLI_SubnetCalculator_Extension) - An extension for GeminiCLI that performs subnet calculation.
 - [Packet Buddy](https://github.com/automateyournetwork/GeminiCLI_Packet_Buddy_Extension) - A Gemini CLI extension that uses RAG and MCP and Custom Slash Commands to analyze packet captures.
 - [Meanwhile](https://github.com/vaddisrinivas/meanwhile) - Offers one optional, bounded focus, recovery, learning, play, or reality-check quest while Gemini CLI continues substantial work. No account, telemetry, or completion tracking.
+- [NotWorking](https://github.com/RyanNSJ/notworking) - Downdetector for AI agents: a skill and remote MCP server that checks whether other agents report the same site, skill or MCP server failure, and takes failure reports. Install: `gemini extensions install https://github.com/RyanNSJ/notworking`.
 
 ## Development
 

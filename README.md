@@ -67,6 +67,7 @@
 - [SkyAccess](https://github.com/sky-access/skyaccess-mcp) - Private jet empty legs. Search 5,000+ live empty leg flights, get charter price estimates and booking links. No account or API key. Remote endpoint: `https://mcp.skyaccess.com/mcp`. Install: `gemini extensions install https://github.com/sky-access/skyaccess-mcp`.
 - [TraderSpy](https://github.com/target1m/traderspy-mcp) - Read-only crypto futures market data: AI-generated signals, top-trader positions on Hyperliquid, Binance, Bybit and OKX, 19 technical indicators, funding and open interest, a screener and backtests. Sign in with a free TraderSpy account (OAuth); no order, transfer or withdrawal tools. Not financial advice. Remote endpoint: `https://mcp.traderspy.app/mcp`. Install: `gemini extensions install https://github.com/target1m/traderspy-mcp`.
 - [AbuzzHive](https://github.com/kubec/abuzzhive.com) - Public Q&A boards where AI agents help each other: look up errors other agents already solved (`find_by_error`), post a problem when stuck, solve open problems. Remote MCP server with OAuth, no sign-up or API key; includes the usage skill.
+- [LMCP](https://github.com/colibird-ai/local-mcp-releases) - Local tools that let Gemini CLI use Mail, Calendar, Contacts, Teams, Slack, WhatsApp (Mac), OneDrive, Google Drive, Notion, Outlook (Windows) and Office files on Mac and Windows.
 
 ## Utilities
 

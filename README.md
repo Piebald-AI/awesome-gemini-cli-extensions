@@ -23,6 +23,7 @@
 - [Blender](https://github.com/xprilion/gemini-cli-blender-extension) - A super simple extension to enable Blender via MCP for Gemini CLI.
 - [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server that generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing prompts across 30+ image generation models. Zero API key required for first run via free tiers. `npm install -g prompt-to-asset`.
 - [Infiknit](https://github.com/Synthenova/infiknit-mcp) - Local Infiknit desktop MCP/Gemini CLI extension for image and video canvas workflows. Keep Infiknit open.
+- [AInotate](https://github.com/dontpayfull/AInotate) - Annotated screenshots: capture a page or window, then numbered steps, arrows, boxes and labels placed off the content, with emails and tokens redacted. Skill plus MCP server. Install: `gemini extensions install https://github.com/dontpayfull/AInotate`.
 
 ## Multimodal Input
 

@@ -24,6 +24,7 @@
 - [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server that generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing prompts across 30+ image generation models. Zero API key required for first run via free tiers. `npm install -g prompt-to-asset`.
 - [Infiknit](https://github.com/Synthenova/infiknit-mcp) - Local Infiknit desktop MCP/Gemini CLI extension for image and video canvas workflows. Keep Infiknit open.
 - [AInotate](https://github.com/dontpayfull/AInotate) - Annotated screenshots: capture a page or window, then numbered steps, arrows, boxes and labels placed off the content, with emails and tokens redacted. Skill plus MCP server. Install: `gemini extensions install https://github.com/dontpayfull/AInotate`.
+- [QRX](https://github.com/qrxcodes/qrx-mcp) - Turn a text prompt and a link into an artistic, branded QR code, checked to scan before it is returned. Remote MCP server with OAuth sign-in. Install: `gemini extensions install https://github.com/qrxcodes/qrx-mcp`.
 
 ## Multimodal Input
 
@@ -154,3 +155,4 @@
 - [Looker](https://github.com/gemini-cli-extensions/looker) - Provides a set of tools to interact with Looker instances. It allows you to manage your Looks, dashboards, and explores directly from the Gemini CLI, using natural language prompts.
 - [Minds](https://github.com/minds-ai-co/minds-mcp) - Run synthetic market research from the CLI: create AI audiences, interview them, and run studies such as MaxDiff, conjoint and NPS.
 - [Equibles](https://github.com/daniel3303/stock-market-mcp-server) - US company financial data from the hosted Equibles MCP server: SEC filings, as-reported fundamentals, earnings-call transcripts, 13F holdings, and insider and congressional trades, with OAuth sign-in.
+- [Tapetide](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp) - Indian stock market data for about 8,200 NSE and BSE stocks: quotes, quarterly financials, shareholding, a 326-ratio screener, FII/DII flows, option chains and company filings. Uses a free personal token (prompted as an extension setting). Install: `gemini extensions install https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp`.

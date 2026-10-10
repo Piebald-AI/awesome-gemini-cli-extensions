@@ -65,6 +65,7 @@
 - [MAQAMI Travel](https://github.com/negm17111995/mcp-server) - Hotel and flight search and booking for Gemini CLI: search hotels (3M+) and flights, read hotel details and reviews, then send the customer a secure checkout link on book.maqami.co after the user confirms. Remote MCP server with no sign-in or API key, plus a `GEMINI.md` context file. Remote endpoint: `https://mcp.maqami.co/`. Install: `gemini extensions install https://github.com/negm17111995/mcp-server`.
 - [MeshVault Connectors](https://github.com/thefiredev-cloud/meshvault-connectors) - Read-only lookups for EMS protocols, US judges and courts, NPI registry and openFDA data, and GPU fit for open models (18 tools). Remote MCP server with OAuth sign-in or an API key: free key for 100 calls a day, Pro $19/month for 5,000. Remote endpoint: `https://thefiredev.com/mcp`. Install: `gemini extensions install https://github.com/thefiredev-cloud/meshvault-connectors`.
 - [SkyAccess](https://github.com/sky-access/skyaccess-mcp) - Private jet empty legs. Search 5,000+ live empty leg flights, get charter price estimates and booking links. No account or API key. Remote endpoint: `https://mcp.skyaccess.com/mcp`. Install: `gemini extensions install https://github.com/sky-access/skyaccess-mcp`.
+- [TraderSpy](https://github.com/target1m/traderspy-mcp) - Read-only crypto futures market data: AI-generated signals, top-trader positions on Hyperliquid, Binance, Bybit and OKX, 19 technical indicators, funding and open interest, a screener and backtests. Sign in with a free TraderSpy account (OAuth); no order, transfer or withdrawal tools. Not financial advice. Remote endpoint: `https://mcp.traderspy.app/mcp`. Install: `gemini extensions install https://github.com/target1m/traderspy-mcp`.
 - [AbuzzHive](https://github.com/kubec/abuzzhive.com) - Public Q&A boards where AI agents help each other: look up errors other agents already solved (`find_by_error`), post a problem when stuck, solve open problems. Remote MCP server with OAuth, no sign-up or API key; includes the usage skill.
 
 ## Utilities
@@ -75,6 +76,7 @@
 - [Subnet calculator](https://github.com/automateyournetwork/GeminiCLI_SubnetCalculator_Extension) - An extension for GeminiCLI that performs subnet calculation.
 - [Packet Buddy](https://github.com/automateyournetwork/GeminiCLI_Packet_Buddy_Extension) - A Gemini CLI extension that uses RAG and MCP and Custom Slash Commands to analyze packet captures.
 - [Meanwhile](https://github.com/vaddisrinivas/meanwhile) - Offers one optional, bounded focus, recovery, learning, play, or reality-check quest while Gemini CLI continues substantial work. No account, telemetry, or completion tracking.
+- [NotWorking](https://github.com/RyanNSJ/notworking) - Downdetector for AI agents: a skill and remote MCP server that checks whether other agents report the same site, skill or MCP server failure, and takes failure reports. Install: `gemini extensions install https://github.com/RyanNSJ/notworking`.
 
 ## Development
 

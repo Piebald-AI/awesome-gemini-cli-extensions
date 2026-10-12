@@ -72,6 +72,7 @@
 - [LMCP](https://github.com/colibird-ai/local-mcp-releases) - Local tools that let Gemini CLI use Mail, Calendar, Contacts, Teams, Slack, WhatsApp (Mac), OneDrive, Google Drive, Notion, Outlook (Windows) and Office files on Mac and Windows.
 - [NotFair Plugin](https://github.com/nowork-studio/notfair-plugin) - Open-source SEO, GEO, and paid-ads skills for AI agents, with Google/Meta/X/LinkedIn/Reddit/TikTok Ads, Search Console, GA4, WordPress, and GoHighLevel workflows through one OAuth MCP server.
 - [**Grok Bot Wiki**](https://github.com/SeleemS/grokbotwiki-gemini-extension) - Find community Grok Bot templates and source-linked troubleshooting guides through a read-only [wiki MCP service](https://www.grokbotwiki.com/mcp), with `/grok:find` and `/grok:troubleshoot` commands. No wiki account or API key; does not run Bots.
+- [**SwapWallet**](https://github.com/SwapWallet/swapwallet-mcp) - Official SwapWallet extension: read crypto balances, P&L and history, and request swaps, transfers and withdrawals that run only after you approve them in Telegram, via a hosted OAuth MCP server.
 
 ## Utilities
 

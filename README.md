@@ -71,7 +71,7 @@
 - [AbuzzHive](https://github.com/kubec/abuzzhive.com) - Public Q&A boards where AI agents help each other: look up errors other agents already solved (`find_by_error`), post a problem when stuck, solve open problems. Remote MCP server with OAuth, no sign-up or API key; includes the usage skill.
 - [LMCP](https://github.com/colibird-ai/local-mcp-releases) - Local tools that let Gemini CLI use Mail, Calendar, Contacts, Teams, Slack, WhatsApp (Mac), OneDrive, Google Drive, Notion, Outlook (Windows) and Office files on Mac and Windows.
 - [NotFair Plugin](https://github.com/nowork-studio/notfair-plugin) - Open-source SEO, GEO, and paid-ads skills for AI agents, with Google/Meta/X/LinkedIn/Reddit/TikTok Ads, Search Console, GA4, WordPress, and GoHighLevel workflows through one OAuth MCP server.
-- [**MetaRun**](https://github.com/metarun/metarun-skills) - Manage App Store Connect from Gemini CLI: releases and App Review submissions, TestFlight, prices across 175 storefronts, listing localization and review replies, through MetaRun's hosted MCP server with browser OAuth sign-in. Each change is previewed before it reaches Apple, and the Apple key stays server-side. Install: `gemini extensions install https://github.com/metarun/metarun-skills`.
+- [MetaRun](https://github.com/metarun/metarun-skills) - Manage App Store Connect from Gemini CLI: releases and App Review submissions, TestFlight, prices across 175 storefronts, listing localization and review replies, through MetaRun's hosted MCP server with browser OAuth sign-in. Each change is previewed before it reaches Apple, and the Apple key stays server-side. Install: `gemini extensions install https://github.com/metarun/metarun-skills`.
 
 ## Utilities
 

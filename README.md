@@ -71,6 +71,7 @@
 - [AbuzzHive](https://github.com/kubec/abuzzhive.com) - Public Q&A boards where AI agents help each other: look up errors other agents already solved (`find_by_error`), post a problem when stuck, solve open problems. Remote MCP server with OAuth, no sign-up or API key; includes the usage skill.
 - [LMCP](https://github.com/colibird-ai/local-mcp-releases) - Local tools that let Gemini CLI use Mail, Calendar, Contacts, Teams, Slack, WhatsApp (Mac), OneDrive, Google Drive, Notion, Outlook (Windows) and Office files on Mac and Windows.
 - [NotFair Plugin](https://github.com/nowork-studio/notfair-plugin) - Open-source SEO, GEO, and paid-ads skills for AI agents, with Google/Meta/X/LinkedIn/Reddit/TikTok Ads, Search Console, GA4, WordPress, and GoHighLevel workflows through one OAuth MCP server.
+- [looot](https://github.com/loootai/looot-mcp) - Work emails, phones, company and people search, Google results, web page reads, LinkedIn profiles and tech stack from about 2,500 data API operations across 90+ providers. Search is free, the price shows before a run, a failed call is free, prepaid balance from $5. Remote MCP server with OAuth sign-in or an API key. Remote endpoint: `https://api.looot.ai/mcp`. Install: `gemini extensions install https://github.com/loootai/looot-mcp`.
 
 ## Utilities
 

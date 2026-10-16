@@ -25,6 +25,7 @@
 - [Infiknit](https://github.com/Synthenova/infiknit-mcp) - Local Infiknit desktop MCP/Gemini CLI extension for image and video canvas workflows. Keep Infiknit open.
 - [AInotate](https://github.com/dontpayfull/AInotate) - Annotated screenshots: capture a page or window, then numbered steps, arrows, boxes and labels placed off the content, with emails and tokens redacted. Skill plus MCP server. Install: `gemini extensions install https://github.com/dontpayfull/AInotate`.
 - [QRX](https://github.com/qrxcodes/qrx-mcp) - Turn a text prompt and a link into an artistic, branded QR code, checked to scan before it is returned. Remote MCP server with OAuth sign-in. Install: `gemini extensions install https://github.com/qrxcodes/qrx-mcp`.
+- [CurlShot](https://github.com/SergiuPogor/curlshot-mcp) - Screenshots of any public web page as PNG, JPEG, WebP, PDF or a scrolling video, or your own HTML/Markdown rendered to an image, through the hosted CurlShot MCP server. Needs a CurlShot API key (free plan: 100 screenshots a month). Install: `gemini extensions install https://github.com/SergiuPogor/curlshot-mcp`.
 
 ## Multimodal Input
 

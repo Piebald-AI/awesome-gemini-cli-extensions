@@ -125,6 +125,8 @@
 - [dejavu](https://github.com/WhiteBite/dejavu-gates) - Cross-session error gates: recurring tool-call failures become enforced remind-first, block-on-repeat gates via BeforeTool/AfterTool hooks. One store shared with Claude Code, Codex, OpenCode, Cursor and more. Install: `gemini extensions install https://github.com/WhiteBite/dejavu-gates`. MIT.
 - [**Bestax**](https://github.com/allxsmith/bestax-skills) - Skills and an MCP server for building React apps with Bestax, a component library for Bulma v1: props, examples, CSS variables, theming and forms.
 
+- [**Openhook**](https://github.com/openhook-dev/openhook-inbox) - Wait for webhook, email, and DNS callbacks and inspect what arrived while testing an integration. Bundles a callback-testing skill and a hosted MCP connection; disposable inboxes need no account, while private tokens control reading and deletion. MIT. Install: `gemini extensions install https://github.com/openhook-dev/openhook-inbox --ref main`.
+
 ## Cloud & Dev Tools
 
 - [gcloud](https://github.com/gemini-cli-extensions/gcloud) - gcloud Gemini CLI Extension.

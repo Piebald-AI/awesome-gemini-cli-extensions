@@ -124,6 +124,7 @@
 - [Darkmoon](https://github.com/ASCIT31/darkmoon-mcp-server) - Start autonomous AI penetration tests, poll run status, list campaigns and read findings from your self-hosted Darkmoon Pro instance through a 4-tool MCP server (`@darkmoon_ai/mcp-server`). Needs `DARKMOON_BASE_URL` and credentials; `run_pentest` is not read-only, so only target systems you are authorized to test. Install: `gemini extensions install https://github.com/ASCIT31/darkmoon-mcp-server`.
 - [dejavu](https://github.com/WhiteBite/dejavu-gates) - Cross-session error gates: recurring tool-call failures become enforced remind-first, block-on-repeat gates via BeforeTool/AfterTool hooks. One store shared with Claude Code, Codex, OpenCode, Cursor and more. Install: `gemini extensions install https://github.com/WhiteBite/dejavu-gates`. MIT.
 - [**Bestax**](https://github.com/allxsmith/bestax-skills) - Skills and an MCP server for building React apps with Bestax, a component library for Bulma v1: props, examples, CSS variables, theming and forms.
+- [**Chisle**](https://github.com/JayPokale/Chisle) - Cuts Gemini CLI token use with terse answers and smallest-code-that-works rules, loaded as context from `GEMINI.md`; the same ruleset ships for Claude Code, Cursor, Codex and other agents. Install with `gemini extensions install https://github.com/JayPokale/Chisle`.
 
 ## Cloud & Dev Tools
 

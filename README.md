@@ -76,6 +76,7 @@
 - [Warmerly](https://github.com/WarmerlyApp/gemini-extension) - Email warmup and cold outreach over Warmerly's remote MCP server (OAuth): mailbox health, SPF/DKIM/DMARC checks, lead search, draft campaigns and reply triage.
 - [MetaRun](https://github.com/metarun/metarun-skills) - Manage App Store Connect from Gemini CLI: releases and App Review submissions, TestFlight, prices across 175 storefronts, listing localization and review replies, through MetaRun's hosted MCP server with browser OAuth sign-in. Each change is previewed before it reaches Apple, and the Apple key stays server-side. Install: `gemini extensions install https://github.com/metarun/metarun-skills`.
 - [looot](https://github.com/loootai/looot-mcp) - Work emails, phones, company and people search, Google results, web page reads, LinkedIn profiles and tech stack from about 2,500 data API operations across 90+ providers. Search is free, the price shows before a run, a failed call is free, prepaid balance from $5. Remote MCP server with OAuth sign-in or an API key. Remote endpoint: `https://api.looot.ai/mcp`. Install: `gemini extensions install https://github.com/loootai/looot-mcp`.
+- [CareJobs.Now](https://github.com/yumaheymans/carejobs-mcp) - Search 170,000+ open US healthcare jobs with the pay each employer posts, read daily from hospitals' own career sites. Remote MCP server (`https://carejobs.now/api/mcp`) plus a GEMINI.md context file. Free, read-only, no API key. Install: `gemini extensions install https://github.com/yumaheymans/carejobs-mcp`.
 
 ## Utilities
 

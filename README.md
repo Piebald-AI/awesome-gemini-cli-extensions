@@ -126,6 +126,7 @@
 - [Darkmoon](https://github.com/ASCIT31/darkmoon-mcp-server) - Start autonomous AI penetration tests, poll run status, list campaigns and read findings from your self-hosted Darkmoon Pro instance through a 4-tool MCP server (`@darkmoon_ai/mcp-server`). Needs `DARKMOON_BASE_URL` and credentials; `run_pentest` is not read-only, so only target systems you are authorized to test. Install: `gemini extensions install https://github.com/ASCIT31/darkmoon-mcp-server`.
 - [dejavu](https://github.com/WhiteBite/dejavu-gates) - Cross-session error gates: recurring tool-call failures become enforced remind-first, block-on-repeat gates via BeforeTool/AfterTool hooks. One store shared with Claude Code, Codex, OpenCode, Cursor and more. Install: `gemini extensions install https://github.com/WhiteBite/dejavu-gates`. MIT.
 - [**Bestax**](https://github.com/allxsmith/bestax-skills) - Skills and an MCP server for building React apps with Bestax, a component library for Bulma v1: props, examples, CSS variables, theming and forms.
+- [**brethof-brain**](https://github.com/BrethofAI/brethof-brain-client) - Memory that searches itself: with every prompt, before Gemini CLI answers, the extension's hooks put the records that bear on it in front of the agent, plus a brief at session start, and every turn is kept. One memory, local or hosted, shared with Claude Code, Codex and other agents. Needs a brethof-brain account (free plan, no card). Install: `gemini extensions install https://github.com/BrethofAI/brethof-brain-client`.
 
 ## Cloud & Dev Tools
 

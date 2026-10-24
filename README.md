@@ -129,6 +129,8 @@
 - [**Bestax**](https://github.com/allxsmith/bestax-skills) - Skills and an MCP server for building React apps with Bestax, a component library for Bulma v1: props, examples, CSS variables, theming and forms.
 - [**npmscan**](https://github.com/salemalem/npmscan-mcp-plugin) - Checks npm packages for malware, known vulnerabilities, typosquats, maintainer takeovers and risky install scripts before you install them, and audits package.json, lockfiles, SBOMs and PR dependency changes. Bundles 5 skills plus a free, read-only remote MCP server (no API key). Install: `gemini extensions install https://github.com/salemalem/npmscan-mcp-plugin`.
 
+- [**Openhook**](https://github.com/openhook-dev/openhook-inbox) - Wait for webhook, email, and DNS callbacks and inspect what arrived while testing an integration. Bundles a callback-testing skill and a hosted MCP connection; disposable inboxes need no account, while private tokens control reading and deletion. MIT. Install: `gemini extensions install https://github.com/openhook-dev/openhook-inbox --ref main`.
+
 ## Cloud & Dev Tools
 
 - [gcloud](https://github.com/gemini-cli-extensions/gcloud) - gcloud Gemini CLI Extension.

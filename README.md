@@ -136,6 +136,8 @@
 - [genkit](https://github.com/gemini-cli-extensions/genkit) - Extension https://genkit.dev/.
 - [MCP Toolbox](https://github.com/gemini-cli-extensions/mcp-toolbox) - Develop and query your custom tools using the power of natural language, directly from your command line through MCP Toolbox. Go from an idea to a running, invocable tool in minutes, without ever leaving your terminal.
 
+- [**Docsy**](https://github.com/getremcp/docsy) - Gemini CLI extension for source-linked, current and version-specific framework, library and SDK documentation. Connects to hosted OAuth MCP `https://docsy.remcp.site/mcp/registry` and offers five read-only tools; no private repository access. Install: `gemini extensions install https://github.com/getremcp/docsy`.
+
 ## Databases
 
 - [Neo4j](https://github.com/RubensZimbres/gemini-cli-neo4j-extension) - Neo4j extension for Gemini CLI.

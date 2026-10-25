@@ -4,6 +4,8 @@
 
 **👉 See also: [Awesome Gemini CLI](https://github.com/Piebald-AI/awesome-gemini-cli)**
 
+**Built a Gemini CLI extension?**  Add it to this list!  See [Contributing.](#contributing)
+
 ## Contents
 
 - [Image Generation](https://github.com/Piebald-AI/awesome-gemini-cli-extensions?tab=readme-ov-file#image-generation)
@@ -16,6 +18,7 @@
 - [App Development](https://github.com/Piebald-AI/awesome-gemini-cli-extensions?tab=readme-ov-file#app-development)
 - [Cloud & Dev Tools](https://github.com/Piebald-AI/awesome-gemini-cli-extensions?tab=readme-ov-file#cloud--dev-tools)
 - [Development](https://github.com/Piebald-AI/awesome-gemini-cli-extensions?tab=readme-ov-file#development)
+- [Contributing](https://github.com/Piebald-AI/awesome-gemini-cli-extensions?tab=readme-ov-file#contributing)
 
 ## Image Generation & Rendering
 
@@ -168,3 +171,7 @@
 - [Minds](https://github.com/minds-ai-co/minds-mcp) - Run synthetic market research from the CLI: create AI audiences, interview them, and run studies such as MaxDiff, conjoint and NPS.
 - [Equibles](https://github.com/daniel3303/stock-market-mcp-server) - US company financial data from the hosted Equibles MCP server: SEC filings, as-reported fundamentals, earnings-call transcripts, 13F holdings, and insider and congressional trades, with OAuth sign-in.
 - [Tapetide](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp) - Indian stock market data for about 8,200 NSE and BSE stocks: quotes, quarterly financials, shareholding, a 326-ratio screener, FII/DII flows, option chains and company filings. Uses a free personal token (prompted as an extension setting). Install: `gemini extensions install https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp`.
+
+## Contributing
+
+Contributions are highly valued!  See [CONTRIBUTING.md](CONTRIBUTING.md).

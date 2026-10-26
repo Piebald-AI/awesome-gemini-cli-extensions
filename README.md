@@ -4,6 +4,8 @@
 
 **👉 See also: [Awesome Gemini CLI](https://github.com/Piebald-AI/awesome-gemini-cli)**
 
+**Built a Gemini CLI extension?**  Add it to this list!  See [Contributing.](#contributing)
+
 ## Contents
 
 - [Image Generation](https://github.com/Piebald-AI/awesome-gemini-cli-extensions?tab=readme-ov-file#image-generation)
@@ -16,6 +18,7 @@
 - [App Development](https://github.com/Piebald-AI/awesome-gemini-cli-extensions?tab=readme-ov-file#app-development)
 - [Cloud & Dev Tools](https://github.com/Piebald-AI/awesome-gemini-cli-extensions?tab=readme-ov-file#cloud--dev-tools)
 - [Development](https://github.com/Piebald-AI/awesome-gemini-cli-extensions?tab=readme-ov-file#development)
+- [Contributing](https://github.com/Piebald-AI/awesome-gemini-cli-extensions?tab=readme-ov-file#contributing)
 
 ## Image Generation & Rendering
 
@@ -80,6 +83,7 @@
 - [Kuudo Skills](https://github.com/KuudoAI/skills) - Amazon Ads and Seller Central work from Gemini CLI: 22 skills for Sponsored Products and Brands audits, search-term mining, budget pacing, DSP and Amazon Marketing Cloud, listings, product images, repricing, FBA inbound, and profitability, built for Kuudo's hosted Amazon Ads and SP-API MCP servers (connected separately). Price, budget, listing, and shipment writes are previewed and wait for your approval. Install: `gemini extensions install https://github.com/KuudoAI/skills`. PolyForm Shield 1.0.0 (source-available).
 - [deed.page](https://github.com/f-o-x11/deed-page-skill) - Publish a generated HTML file or a static folder to a permanent `https://<slug>.deed.page/` URL with one request: no account, API key, email code or claim link. Bundles the deed-page skill plus the remote MCP server `https://deed.page/mcp` (no auth). Free sites are public; paid plans from $3/month raise limits. Install: `gemini extensions install https://github.com/f-o-x11/deed-page-skill`.
 - [Taplio](https://github.com/TaplioOfficial/taplio-linkedin-plugin) - Write, schedule and analyze LinkedIn posts from Gemini CLI: 26 LinkedIn skills plus the Taplio remote MCP server (35 tools) at `https://mcp.taplio.com/`, with OAuth sign-in on first use. Requires a Taplio account (free plan available). Install: `gemini extensions install https://github.com/TaplioOfficial/taplio-linkedin-plugin`.
+- [Terminal Tax](https://github.com/terminaltax/terminal-tax-mcp-server) - Lets Gemini CLI prepare one tax year 2025 US federal Form 1040 or 1040-SR through Terminal Tax's hosted remote MCP server (no account or API key); the person reviews, signs and authorizes payment on one hosted filing page, and Terminal Tax e-files it with the IRS. Install: `gemini extensions install https://github.com/terminaltax/terminal-tax-mcp-server`.
 
 ## Utilities
 
@@ -167,4 +171,8 @@
 - [Minds](https://github.com/minds-ai-co/minds-mcp) - Run synthetic market research from the CLI: create AI audiences, interview them, and run studies such as MaxDiff, conjoint and NPS.
 - [Equibles](https://github.com/daniel3303/stock-market-mcp-server) - US company financial data from the hosted Equibles MCP server: SEC filings, as-reported fundamentals, earnings-call transcripts, 13F holdings, and insider and congressional trades, with OAuth sign-in.
 - [Tapetide](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp) - Indian stock market data for about 8,200 NSE and BSE stocks: quotes, quarterly financials, shareholding, a 326-ratio screener, FII/DII flows, option chains and company filings. Uses a free personal token (prompted as an extension setting). Install: `gemini extensions install https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp`.
-- [**MarketMirror**](https://github.com/DarkWorldCoder/market-mirror) - MCP server that tests ads, prices, emails and sales pitches on simulated buyers and writes a go / iterate / no-go report with an offline dashboard. Self-hosted, AGPL-3.0.
+- [MarketMirror](https://github.com/DarkWorldCoder/market-mirror) - MCP server that tests ads, prices, emails and sales pitches on simulated buyers and writes a go / iterate / no-go report with an offline dashboard. Self-hosted, AGPL-3.0.
+
+## Contributing
+
+Contributions are highly valued!  See [CONTRIBUTING.md](CONTRIBUTING.md).

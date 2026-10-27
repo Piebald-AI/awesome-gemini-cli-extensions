@@ -134,6 +134,7 @@
 - [dejavu](https://github.com/WhiteBite/dejavu-gates) - Cross-session error gates: recurring tool-call failures become enforced remind-first, block-on-repeat gates via BeforeTool/AfterTool hooks. One store shared with Claude Code, Codex, OpenCode, Cursor and more. Install: `gemini extensions install https://github.com/WhiteBite/dejavu-gates`. MIT.
 - [**Bestax**](https://github.com/allxsmith/bestax-skills) - Skills and an MCP server for building React apps with Bestax, a component library for Bulma v1: props, examples, CSS variables, theming and forms.
 - [**npmscan**](https://github.com/salemalem/npmscan-mcp-plugin) - Checks npm packages for malware, known vulnerabilities, typosquats, maintainer takeovers and risky install scripts before you install them, and audits package.json, lockfiles, SBOMs and PR dependency changes. Bundles 5 skills plus a free, read-only remote MCP server (no API key). Install: `gemini extensions install https://github.com/salemalem/npmscan-mcp-plugin`.
+- [**Chisle**](https://github.com/JayPokale/Chisle) - Cuts Gemini CLI token use with terse answers and smallest-code-that-works rules, loaded as context from `GEMINI.md`; the same ruleset ships for Claude Code, Cursor, Codex and other agents. Install with `gemini extensions install https://github.com/JayPokale/Chisle`.
 
 ## Cloud & Dev Tools
 

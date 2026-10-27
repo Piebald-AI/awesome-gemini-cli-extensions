@@ -30,6 +30,7 @@
 - [QRX](https://github.com/qrxcodes/qrx-mcp) - Turn a text prompt and a link into an artistic, branded QR code, checked to scan before it is returned. Remote MCP server with OAuth sign-in. Install: `gemini extensions install https://github.com/qrxcodes/qrx-mcp`.
 - [orrery](https://github.com/Sagargupta16/orrery) - Architecture and system design diagrams from a short YAML spec, with the official AWS, Azure, Google Cloud, Kubernetes, GitHub and IBM icons, laid out automatically and rendered to animated SVG, PNG, draw.io, React TSX and HTML. Skill with a bundled CLI (Node 22+). Install: `gemini extensions install https://github.com/Sagargupta16/orrery`.
 - [Model Salt](https://github.com/modelsalt/model-salt) - Randomness from outside the model, so one prompt gives different pictures, SVGs, stories and designs that still do what you asked. Install: `gemini extensions install https://github.com/modelsalt/model-salt`
+- [Levea AI Video Editor](https://github.com/brajendrak00068/agentic-ai-video-production) - Prompt-first AI video editor: describe the edit and get a finished MP4 (viral clips, word-by-word captions, 9:16 reframe, chroma key, B-roll, voiceover, music). Remote MCP server with OAuth sign-in. Install: `gemini extensions install https://github.com/brajendrak00068/agentic-ai-video-production`.
 
 ## Multimodal Input
 

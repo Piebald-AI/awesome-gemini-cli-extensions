@@ -142,6 +142,8 @@
 - [**npmscan**](https://github.com/salemalem/npmscan-mcp-plugin) - Checks npm packages for malware, known vulnerabilities, typosquats, maintainer takeovers and risky install scripts before you install them, and audits package.json, lockfiles, SBOMs and PR dependency changes. Bundles 5 skills plus a free, read-only remote MCP server (no API key). Install: `gemini extensions install https://github.com/salemalem/npmscan-mcp-plugin`.
 - [UI Verify](https://github.com/uiverify/uiverify) - Visual testing for coding agents: your agent sees every UI change it makes, so visual bugs never reach production. Bundles 9 Agent Skills (set up visual regression tests for Storybook, Playwright and Vitest, keep captures deterministic, triage a build's changes) and the hosted UI Verify MCP server `https://uiverify.ai/mcp` (15 tools, OAuth sign-in in the browser) to see each change as a before and after against the baseline and accept the intended ones. Free for 10,000 snapshots a month and 50,000 for open-source projects. Install: `gemini extensions install https://github.com/uiverify/uiverify`, then `/mcp auth uiverify`.
 
+- [**Openhook**](https://github.com/openhook-dev/openhook-inbox) - Wait for webhook, email, and DNS callbacks and inspect what arrived while testing an integration. Bundles a callback-testing skill and a hosted MCP connection; disposable inboxes need no account, while private tokens control reading and deletion. MIT. Install: `gemini extensions install https://github.com/openhook-dev/openhook-inbox --ref main`.
+
 ## Cloud & Dev Tools
 
 - [gcloud](https://github.com/gemini-cli-extensions/gcloud) - gcloud Gemini CLI Extension.

@@ -91,6 +91,7 @@
 - [Leave and PTO](https://github.com/zovo-one/mcp-leave) - Track employee leave in Gemini CLI: requests, approvals, balances, who is out, and an .ics calendar export, through the hosted MCP server at `https://mcp.zovo.one/mcp/leave` with a free anonymous token, or the one-click .mcpb bundle. Install: `gemini extensions install https://github.com/zovo-one/mcp-leave`.
 - [SFXMint](https://github.com/flreey/sfxmint-mcp) - Free CC0 sound effects for apps and games: find AI-generated sounds by game or app event, as a matching set, or by description, and download them into the project. A zero-auth remote MCP server plus a skill. Install: `gemini extensions install https://github.com/flreey/sfxmint-mcp`.
 - [BestPrice](https://github.com/TheBestCo/bestprice-mcp) - Official BestPrice.gr extension (`bestprice-shopping`): read-only shopping decisions, product search, live Greek merchant offers with delivered totals, and price history over a keyless remote MCP server. Never checks out.
+- [BankBridge](https://github.com/bankbridge-money/bankbridge-plugin) - Ask Gemini CLI about your own bank, credit card and investment accounts: spending, subscriptions, cashflow and holdings, fetched live on each question. Read-only (12 tools, none can move money), US banks. Remote MCP server with OAuth sign-in plus a `GEMINI.md` context file. Paid hosted service, $5/mo per connected bank. Remote endpoint: `https://bankbridge.money/api/mcp`. Install: `gemini extensions install https://github.com/bankbridge-money/bankbridge-plugin`.
 
 ## Utilities
 

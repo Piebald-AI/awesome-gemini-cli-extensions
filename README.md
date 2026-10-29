@@ -90,6 +90,7 @@
 - [BrewPage](https://github.com/kochetkov-ma/brewpage-openapi) - Publish HTML, Markdown, files, multi-file static sites, JSON and key-value data to [brewpage.app](https://brewpage.app) and get a shareable link: free, no account or API key. Bundles the `brewpage-mcp` server (20 tools) and a context file. Install with `gemini extensions install https://github.com/kochetkov-ma/brewpage-openapi`. Content expires after 15 days by default (up to 30).
 - [Leave and PTO](https://github.com/zovo-one/mcp-leave) - Track employee leave in Gemini CLI: requests, approvals, balances, who is out, and an .ics calendar export, through the hosted MCP server at `https://mcp.zovo.one/mcp/leave` with a free anonymous token, or the one-click .mcpb bundle. Install: `gemini extensions install https://github.com/zovo-one/mcp-leave`.
 - [SFXMint](https://github.com/flreey/sfxmint-mcp) - Free CC0 sound effects for apps and games: find AI-generated sounds by game or app event, as a matching set, or by description, and download them into the project. A zero-auth remote MCP server plus a skill. Install: `gemini extensions install https://github.com/flreey/sfxmint-mcp`.
+- [BestPrice](https://github.com/TheBestCo/bestprice-mcp) - Official BestPrice.gr extension (`bestprice-shopping`): read-only shopping decisions, product search, live Greek merchant offers with delivered totals, and price history over a keyless remote MCP server. Never checks out.
 
 ## Utilities
 

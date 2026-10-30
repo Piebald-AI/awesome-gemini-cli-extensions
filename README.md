@@ -102,6 +102,7 @@
 - [Packet Buddy](https://github.com/automateyournetwork/GeminiCLI_Packet_Buddy_Extension) - A Gemini CLI extension that uses RAG and MCP and Custom Slash Commands to analyze packet captures.
 - [Meanwhile](https://github.com/vaddisrinivas/meanwhile) - Offers one optional, bounded focus, recovery, learning, play, or reality-check quest while Gemini CLI continues substantial work. No account, telemetry, or completion tracking.
 - [NotWorking](https://github.com/RyanNSJ/notworking) - Downdetector for AI agents: a skill and remote MCP server that checks whether other agents report the same site, skill or MCP server failure, and takes failure reports. Install: `gemini extensions install https://github.com/RyanNSJ/notworking`.
+- [frugal](https://github.com/fainir/frugal) - Before anything is bought, subscribed to or upgraded, Gemini checks free tiers, plan size and billing period, startup, student, open-source and nonprofit programs, verified promo codes and cheaper alternatives, and reports the best options with sources. Agent Skill plus context file; never pays by itself. MIT. Install: `gemini extensions install https://github.com/fainir/frugal`.
 
 ## Development
 
@@ -142,6 +143,7 @@
 - [**Bestax**](https://github.com/allxsmith/bestax-skills) - Skills and an MCP server for building React apps with Bestax, a component library for Bulma v1: props, examples, CSS variables, theming and forms.
 - [**npmscan**](https://github.com/salemalem/npmscan-mcp-plugin) - Checks npm packages for malware, known vulnerabilities, typosquats, maintainer takeovers and risky install scripts before you install them, and audits package.json, lockfiles, SBOMs and PR dependency changes. Bundles 5 skills plus a free, read-only remote MCP server (no API key). Install: `gemini extensions install https://github.com/salemalem/npmscan-mcp-plugin`.
 - [UI Verify](https://github.com/uiverify/uiverify) - Visual testing for coding agents: your agent sees every UI change it makes, so visual bugs never reach production. Bundles 9 Agent Skills (set up visual regression tests for Storybook, Playwright and Vitest, keep captures deterministic, triage a build's changes) and the hosted UI Verify MCP server `https://uiverify.ai/mcp` (15 tools, OAuth sign-in in the browser) to see each change as a before and after against the baseline and accept the intended ones. Free for 10,000 snapshots a month and 50,000 for open-source projects. Install: `gemini extensions install https://github.com/uiverify/uiverify`, then `/mcp auth uiverify`.
+- [recall](https://github.com/fainir/recall) - Claude Code's per-project memory in Gemini CLI: a local MCP server that reads and writes the same Markdown memories Claude Code keeps, so both agents share one memory. `memory_recall` follows `[[wiki-links]]` within a token budget. Zero dependencies, no account or API key. MIT. Install: `gemini extensions install https://github.com/fainir/recall`.
 
 ## Cloud & Dev Tools
 

@@ -184,6 +184,7 @@
 - [Equibles](https://github.com/daniel3303/stock-market-mcp-server) - US company financial data from the hosted Equibles MCP server: SEC filings, as-reported fundamentals, earnings-call transcripts, 13F holdings, and insider and congressional trades, with OAuth sign-in.
 - [Tapetide](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp) - Indian stock market data for about 8,200 NSE and BSE stocks: quotes, quarterly financials, shareholding, a 326-ratio screener, FII/DII flows, option chains and company filings. Uses a free personal token (prompted as an extension setting). Install: `gemini extensions install https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp`.
 - [MarketMirror](https://github.com/DarkWorldCoder/market-mirror) - MCP server that tests ads, prices, emails and sales pitches on simulated buyers and writes a go / iterate / no-go report with an offline dashboard. Self-hosted, AGPL-3.0.
+- [Fair Value Calculator](https://github.com/petz00711/fair-value-calculator-mcp) - Fair value, quality score and uptrend for 40,000+ stocks, plus your watchlist and alerts, from the hosted Fair Value Calculator MCP server. Sign in with a free account (OAuth). Install: `gemini extensions install https://github.com/petz00711/fair-value-calculator-mcp`.
 
 ## Contributing
 

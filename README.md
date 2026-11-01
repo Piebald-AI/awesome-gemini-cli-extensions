@@ -147,6 +147,8 @@
 - [UI Verify](https://github.com/uiverify/uiverify) - Visual testing for coding agents: your agent sees every UI change it makes, so visual bugs never reach production. Bundles 9 Agent Skills (set up visual regression tests for Storybook, Playwright and Vitest, keep captures deterministic, triage a build's changes) and the hosted UI Verify MCP server `https://uiverify.ai/mcp` (15 tools, OAuth sign-in in the browser) to see each change as a before and after against the baseline and accept the intended ones. Free for 10,000 snapshots a month and 50,000 for open-source projects. Install: `gemini extensions install https://github.com/uiverify/uiverify`, then `/mcp auth uiverify`.
 - [vidbyte-memory](https://github.com/cerredz/vidbyte-memory) - Loads a correction-driven memory protocol: corrections become facts Gemini loads, pytest tests where a check can be written, and git commits, and the installer adds an `AfterAgent` hook that sends Gemini back to work (up to 5 times in a row) while tests fail.
 
+- [**Openhook**](https://github.com/openhook-dev/openhook-inbox) - Wait for webhook, email, and DNS callbacks and inspect what arrived while testing an integration. Bundles a callback-testing skill and a hosted MCP connection; disposable inboxes need no account, while private tokens control reading and deletion. MIT. Install: `gemini extensions install https://github.com/openhook-dev/openhook-inbox --ref main`.
+
 ## Cloud & Dev Tools
 
 - [gcloud](https://github.com/gemini-cli-extensions/gcloud) - gcloud Gemini CLI Extension.

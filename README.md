@@ -150,6 +150,7 @@
 - [vidbyte-memory](https://github.com/cerredz/vidbyte-memory) - Loads a correction-driven memory protocol: corrections become facts Gemini loads, pytest tests where a check can be written, and git commits, and the installer adds an `AfterAgent` hook that sends Gemini back to work (up to 5 times in a row) while tests fail.
 - [recall](https://github.com/fainir/recall) - Claude Code's per-project memory in Gemini CLI: a local MCP server that reads and writes the same Markdown memories Claude Code keeps, so both agents share one memory. `memory_recall` follows `[[wiki-links]]` within a token budget. Zero dependencies, no account or API key. MIT. Install: `gemini extensions install https://github.com/fainir/recall`.
 - [Concord](https://github.com/Get-Concord-AI/concord-mcp) - MCP server and CLI that lets Gemini CLI, Claude Code, Codex, Cursor and other coding agents message each other, claim work, share task memory and hand off in one shared workspace. Run `concord setup` in your repository: it registers the MCP server and links the packaged `concord-relay` Gemini extension.
+
 ## Cloud & Dev Tools
 
 - [gcloud](https://github.com/gemini-cli-extensions/gcloud) - gcloud Gemini CLI Extension.

@@ -192,6 +192,7 @@
 - [Tapetide](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp) - Indian stock market data for about 8,200 NSE and BSE stocks: quotes, quarterly financials, shareholding, a 326-ratio screener, FII/DII flows, option chains and company filings. Uses a free personal token (prompted as an extension setting). Install: `gemini extensions install https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp`.
 - [MarketMirror](https://github.com/DarkWorldCoder/market-mirror) - MCP server that tests ads, prices, emails and sales pitches on simulated buyers and writes a go / iterate / no-go report with an offline dashboard. Self-hosted, AGPL-3.0.
 - [BlockVectra](https://github.com/blockvectra/mcp) - Robinhood Chain and multi-chain EVM RPC, with keyless docs and chain discovery. RPC access follows each chain's public policy; indexed data and account tools need an API key. Install: `gemini extensions install https://github.com/blockvectra/mcp --ref main`.
+- [DC Hub](https://github.com/azmartone67/dchub-mcp-server) - Live data layer for data-center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power across 300+ markets. 94 MCP tools, free to start at https://dchub.cloud/connect?utm_source=awesome-gemini-cli-extensions&utm_medium=listing&utm_campaign=directories. Install: `gemini extensions install https://github.com/azmartone67/dchub-mcp-server`.
 
 ## Contributing
 

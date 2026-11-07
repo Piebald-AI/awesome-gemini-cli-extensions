@@ -158,6 +158,8 @@
 - [EndoStack](https://github.com/requie/endostack) - Security-first workflows for coding agents: threat-model a change before building it, security-review the diff before shipping, and verify by running what a user would run. 62 skills, MIT. Install: `gemini extensions install https://github.com/requie/endostack`.
 - [Chisle](https://github.com/JayPokale/Chisle) - Cuts Gemini CLI token use with terse answers and smallest-code-that-works rules, loaded as context from `GEMINI.md`; the same ruleset ships for Claude Code, Cursor, Codex and other agents. Install with `gemini extensions install https://github.com/JayPokale/Chisle`.
 
+- [**Openhook**](https://github.com/openhook-dev/openhook-inbox) - Wait for webhook, email, and DNS callbacks and inspect what arrived while testing an integration. Bundles a callback-testing skill and a hosted MCP connection; disposable inboxes need no account, while private tokens control reading and deletion. MIT. Install: `gemini extensions install https://github.com/openhook-dev/openhook-inbox --ref main`.
+
 ## Cloud & Dev Tools
 
 - [gcloud](https://github.com/gemini-cli-extensions/gcloud) - gcloud Gemini CLI Extension.

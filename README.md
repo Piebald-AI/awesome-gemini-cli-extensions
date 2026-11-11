@@ -32,6 +32,7 @@
 - [Model Salt](https://github.com/modelsalt/model-salt) - Randomness from outside the model, so one prompt gives different pictures, SVGs, stories and designs that still do what you asked. Install: `gemini extensions install https://github.com/modelsalt/model-salt`
 - [Levea AI Video Editor](https://github.com/brajendrak00068/agentic-ai-video-production) - Prompt-first AI video editor: describe the edit and get a finished MP4 (viral clips, word-by-word captions, 9:16 reframe, chroma key, B-roll, voiceover, music). Remote MCP server with OAuth sign-in. Install: `gemini extensions install https://github.com/brajendrak00068/agentic-ai-video-production`.
 - [Imagera](https://github.com/alexadams6ix/imagera-skills) - Generate and edit images, video, voice and music through the Imagera remote MCP server (OAuth sign-in), with 37 skills and the credit cost stated before each run. Install: `gemini extensions install https://github.com/alexadams6ix/imagera-skills`
+- [ClipUGC](https://github.com/clipugc/ClipUGC-CLI) - UGC style vertical videos for your app with AI influencers who keep the same face: describe an AI influencer, add a screen recording of your app, and get a ready-to-post video with a hook line for TikTok, Reels and Shorts. Remote MCP server with OAuth sign-in, four Agent Skills and a `GEMINI.md` context file; needs a ClipUGC account, with free credits to try. Remote endpoint: `https://clipugc.com/mcp`. MIT. Install: `gemini extensions install https://github.com/clipugc/ClipUGC-CLI`.
 
 ## Multimodal Input
 

@@ -200,6 +200,7 @@
 - [MarketMirror](https://github.com/DarkWorldCoder/market-mirror) - MCP server that tests ads, prices, emails and sales pitches on simulated buyers and writes a go / iterate / no-go report with an offline dashboard. Self-hosted, AGPL-3.0.
 - [BlockVectra](https://github.com/blockvectra/mcp) - Robinhood Chain and multi-chain EVM RPC, with keyless docs and chain discovery. RPC access follows each chain's public policy; indexed data and account tools need an API key. Install: `gemini extensions install https://github.com/blockvectra/mcp --ref main`.
 - [Fair Value Calculator](https://github.com/petz00711/fair-value-calculator-mcp) - Fair value, quality score and uptrend for 40,000+ stocks, plus your watchlist and alerts, from the hosted Fair Value Calculator MCP server. Sign in with a free account (OAuth). Install: `gemini extensions install https://github.com/petz00711/fair-value-calculator-mcp`.
+- [KissMyPost](https://github.com/krutytskyi/kissmypost-gemini) - Reddit audience research from the CLI over a remote MCP server: subreddit finder, best time to post, posting rules and brand mentions.
 
 ## Contributing
 

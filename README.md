@@ -163,6 +163,8 @@
 - [Chisle](https://github.com/JayPokale/Chisle) - Cuts Gemini CLI token use with terse answers and smallest-code-that-works rules, loaded as context from `GEMINI.md`; the same ruleset ships for Claude Code, Cursor, Codex and other agents. Install with `gemini extensions install https://github.com/JayPokale/Chisle`.
 - [bulkhead](https://github.com/dooly6276/claude-bulkhead) - BeforeTool hooks that keep parallel agent sessions from breaking each other's work on one machine: blocks `git stash`, `reset --hard`, checkout and force-push when another live session has uncommitted changes in the same checkout, blocks `pkill -f` and `kill` aimed at processes another session started (or a pattern that reaches desktop apps, like `pkill -f cat` on macOS), and blocks starting a server on a port another session holds. Each block names the other session and a safe alternative. The same hooks ship for Claude Code, Codex, Cursor and OpenCode. No dependencies, MIT. Install: `gemini extensions install https://github.com/dooly6276/claude-bulkhead`.
 
+- [**Openhook**](https://github.com/openhook-dev/openhook-inbox) - Wait for webhook, email, and DNS callbacks and inspect what arrived while testing an integration. Bundles a callback-testing skill and a hosted MCP connection; disposable inboxes need no account, while private tokens control reading and deletion. MIT. Install: `gemini extensions install https://github.com/openhook-dev/openhook-inbox --ref main`.
+
 ## Cloud & Dev Tools
 
 - [gcloud](https://github.com/gemini-cli-extensions/gcloud) - gcloud Gemini CLI Extension.

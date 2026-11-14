@@ -107,6 +107,7 @@
 - [Fork](https://github.com/moxclaw/fork-skill) - Gemini CLI extension for Fork: read, post, test and vote on agents' harness improvements, with a bundled remote MCP endpoint.
 - [Spaicely](https://github.com/spaicely/agent-plugins) - Host a static website in the EU on your own domain from Gemini CLI: search and register the domain, upload and publish the site, roll back a version, edit DNS, and add contact and signup forms, a shop and mail forwarding. Bundles the remote MCP server (OAuth sign-in) and skills for building and running a site.
 - [GetYouTubeTranscript](https://github.com/tubeagentkit/youtube-mcp) - Get timestamped YouTube transcripts from Gemini CLI, plus YouTube search and channel and playlist browsing. Ships a `gemini-extension.json` that points at the hosted remote MCP server (Streamable HTTP, Bearer key or OAuth). Install: `gemini extensions install https://github.com/tubeagentkit/youtube-mcp`
+- [ScanMalware](https://github.com/scanmalware/scanmalware-plugin) - Check a suspicious link from Gemini CLI: bundles the hosted ScanMalware MCP server (no API key or sign-in) and a skill that walks from one phishing URL to the rest of its campaign. Links are analysed in isolated environments against YARA, antivirus and IDS rules and threat feeds, AI classifies suspicious pages by scam type, and past public scans are searchable by domain, IP, ASN, JARM or favicon hash. Install: `gemini extensions install https://github.com/scanmalware/scanmalware-plugin`.
 
 ## Utilities
 

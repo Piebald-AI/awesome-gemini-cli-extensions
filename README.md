@@ -199,6 +199,7 @@
 - [Cloud SQL for MySQL Observability](https://github.com/gemini-cli-extensions/cloud-sql-mysql-observability) - Provides a set of tools to interact with Cloud SQL for MySQL monitoring metrics.
 - [Cloud SQL PostgreSQL Observability](https://github.com/gemini-cli-extensions/cloud-sql-postgresql-observability) - Provides a set of tools to interact with Cloud SQL for PostgreSQL monitoring metrics.
 - [Cloud SQL SQL Server Observability](https://github.com/gemini-cli-extensions/cloud-sql-sqlserver-observability) - Provides a set of tools to interact with Cloud SQL for SQL Server monitoring metrics.
+- [Runheed](https://runheed.com/mcp-server?utm_source=awesome-gemini-cli-extensions) - Error tracking your coding agent can read: search production errors, read stack traces and breadcrumbs, fix them and mark them resolved with a note. Remote MCP server with OAuth sign-in plus a `GEMINI.md` context file. Paid hosted service from $29/month with a 7-day trial; a demo server with sample errors needs no account. Install: `gemini extensions install https://github.com/getrunheed/runheed-plugin`
 
 ## Data & Analytics
 

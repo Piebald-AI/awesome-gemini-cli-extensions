@@ -34,6 +34,9 @@
 - [Imagera](https://github.com/alexadams6ix/imagera-skills) - Generate and edit images, video, voice and music through the Imagera remote MCP server (OAuth sign-in), with 37 skills and the credit cost stated before each run. Install: `gemini extensions install https://github.com/alexadams6ix/imagera-skills`
 - [ClipUGC](https://github.com/clipugc/ClipUGC-CLI) - UGC style vertical videos for your app with AI influencers who keep the same face: describe an AI influencer, add a screen recording of your app, and get a ready-to-post video with a hook line for TikTok, Reels and Shorts. Remote MCP server with OAuth sign-in, four Agent Skills and a `GEMINI.md` context file; needs a ClipUGC account, with free credits to try. Remote endpoint: `https://clipugc.com/mcp`. MIT. Install: `gemini extensions install https://github.com/clipugc/ClipUGC-CLI`.
 
+- [Kling AI Global Plugin](https://github.com/klingai-tech/claude-plugin) - Official Gemini CLI extension for image and video generation, Elements, and task status through Kling's Global OAuth MCP endpoint (`https://kling.ai/mcp/plugin`). Generation uses Global Kling credits. Install: `gemini extensions install https://github.com/klingai-tech/claude-plugin`.
+- [Kling AI China Plugin](https://github.com/klingai-tech/claude-plugin-cn) - Official Gemini CLI extension for image and video generation, Elements, and task status through Kling's China OAuth MCP endpoint (`https://klingai.com/mcp/plugin`). Generation uses China Kling credits. Install: `gemini extensions install https://github.com/klingai-tech/claude-plugin-cn`.
+
 ## Multimodal Input
 
 - [Vision](https://github.com/automateyournetwork/GeminiCLI_Vision_Extension) - Webcam access with single frame capture and ASL modes.

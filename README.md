@@ -56,6 +56,8 @@
 - [AIHawk](https://github.com/feder-cr/AIHawk) - Drive a real Firefox from plain-English instructions: open pages, click, type, read and screenshot, through the real pointer and keyboard on a patched browser. Install: `gemini extensions install https://github.com/feder-cr/AIHawk`.
 - [BenchFleet](https://github.com/benchfleet/benchfleet-mcp) - Lets Gemini CLI use real Android phones connected to the BenchFleet app, with approvals and an audit log.
 
+- [**ReMCP**](https://github.com/getremcp/remcp) - Hosted OAuth MCP extension for Gemini CLI to inspect and operate computers explicitly paired to your account: files, terminals, Chromium and native desktop automation. Tools may change device state. Install: `gemini extensions install https://github.com/getremcp/remcp`.
+
 ## 3rd-Party Services
 
 - [Lusha](https://github.com/lusha-oss/lusha-mcp-plugin) - Find and enrich B2B contacts and companies with verified emails, direct dials, mobile numbers, and real-time buying signals. Bundles 4 prospecting skills plus a remote MCP server, with OAuth sign-in. Install: `gemini extensions install https://github.com/lusha-oss/lusha-mcp-plugin`.

@@ -187,6 +187,7 @@
 - [AsItIs](https://github.com/Katta041/asitis-agent-tools) - Read-only linter for GEMINI.md, AGENTS.md, CLAUDE.md and SKILL.md. Lists what loads when a session starts, estimates the token cost and flags hidden instructions. Install with `gemini extensions install https://github.com/Katta041/asitis-agent-tools`.
 - [Revenue Skills](https://github.com/moonetix/revenue-skills) - 11 Agent Skills for code that handles money: an audit of payment, credit and payout paths that reports each bug with file, line and a request proof or code trace, and skills that build webhook endpoints, ledgers, refunds, usage credits, subscriptions, payouts, referrals and sign-up abuse guards. Install: `gemini extensions install https://github.com/moonetix/revenue-skills`
 - [ClickHouse Loom](https://github.com/ClickHouse/loom) - Shared long-term memory, document search and a code index for Gemini CLI through a self-hosted Loom MCP server. Install the release-candidate extension: `gemini extensions install https://github.com/ClickHouse/loom --ref v1.3.0-rc.1`.
+- [QuoteMem](https://github.com/edsml-jz2321/QuoteMem) - Long-term memory for Gemini CLI, shared with other agents through one local QuoteMem service. Its hooks save the chat and add the relevant memories, with their exact source quotes, to the context; updates keep the old version, "forget ..." requests are carried out, and an MCP server gives the memory tools (`npm install -g quotemem`, `quotemem setup`, then `quotemem install gemini`).
 
 ## Cloud & Dev Tools
 

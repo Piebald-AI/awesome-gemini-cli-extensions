@@ -188,6 +188,7 @@
 - [Fair Value Calculator](https://github.com/petz00711/fair-value-calculator-mcp) - Fair value, quality score and uptrend for 40,000+ stocks, plus your watchlist and alerts, from the hosted Fair Value Calculator MCP server. Sign in with a free account (OAuth). Install: `gemini extensions install https://github.com/petz00711/fair-value-calculator-mcp`.
 - [KissMyPost](https://github.com/krutytskyi/kissmypost-gemini) - Reddit audience research from the CLI over a remote MCP server: subreddit finder, best time to post, posting rules and brand mentions.
 - [DC Hub](https://github.com/azmartone67/dchub-mcp-server) - Live data layer for data-center site selection. Its Data Center Power Index (DCPI) is a daily score of where data centers can get grid power across 300+ markets. 94 MCP tools, free to start at https://dchub.cloud/connect?utm_source=awesome-gemini-cli-extensions&utm_medium=listing&utm_campaign=directories. Install: `gemini extensions install https://github.com/azmartone67/dchub-mcp-server`.
+- [AI Science Tracker](https://github.com/marcello-pichini/ai-science-tracker) - Search about 5,000 AI-enabled scientific discoveries and AI-found vulnerabilities over a hosted, read-only MCP server, each result linked to its original source.
 
 ## Contributing
 

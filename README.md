@@ -44,6 +44,7 @@
 
 ## 3rd-Party Services
 
+- [Magistry](https://github.com/Magistry-io/mcp) - Run an online store or other business from Gemini CLI through Magistry's remote MCP server with OAuth sign-in: orders, products and catalog, Google Ads and other ad networks, GA4, Merchant Center, reviews and customer service. Changes are applied or held for approval per granted scope, logged and undoable. Free plan available. Install: `gemini extensions install https://github.com/Magistry-io/mcp`.
 - [Lusha](https://github.com/lusha-oss/lusha-mcp-plugin) - Find and enrich B2B contacts and companies with verified emails, direct dials, mobile numbers, and real-time buying signals. Bundles 4 prospecting skills plus a remote MCP server, with OAuth sign-in. Install: `gemini extensions install https://github.com/lusha-oss/lusha-mcp-plugin`.
 - [Zambo](https://github.com/zambodotdev/zambo-mcp) - Give your AI hands. One URL. Type a job. Get a receipt. 120 native MCP tools across 17 products behind one zero-auth remote endpoint — free 20 calls/tool/day, no account. Install: `gemini extensions install https://github.com/zambodotdev/zambo-mcp`.
 - [Obsidian](https://github.com/thoreinstein/gemini-obsidian) - Connect Gemini to your Obsidian vault through a local RAG MCP server with `/obsidian:*` commands to interact with your vault.

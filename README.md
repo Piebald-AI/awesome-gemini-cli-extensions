@@ -41,6 +41,7 @@
 - [gemini-discord](https://github.com/Yamato-main/gemini-discord) - Turn your local Gemini CLI agent into an always-on Discord presence that also doubles as your personal server admin.
 - [AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - Drive a real Firefox from plain-English instructions: open pages, click, type, read and screenshot, through the real pointer and keyboard on a patched browser. Install: `gemini extensions install https://github.com/feder-cr/AIHawk`.
 - [BenchFleet](https://github.com/benchfleet/benchfleet-mcp) - Lets Gemini CLI use real Android phones connected to the BenchFleet app, with approvals and an audit log.
+- [Termalin](https://github.com/termalinapp/termalin-plugin) - Gemini CLI extension for your own Linux servers through Termalin's hosted MCP server: run commands and background jobs, read and edit files over SFTP, query databases and read metrics and alerts on the servers you connected, without giving the agent an SSH key. Remote Streamable HTTP with OAuth sign-in, a `GEMINI.md` context file and ten Agent Skills (server health, incident triage, deploy checks, safe command execution, database access). Paid Termalin plan with a 14-day trial. Install: `gemini extensions install https://github.com/termalinapp/termalin-plugin`
 
 ## 3rd-Party Services
 

@@ -41,6 +41,7 @@
 - [gemini-discord](https://github.com/Yamato-main/gemini-discord) - Turn your local Gemini CLI agent into an always-on Discord presence that also doubles as your personal server admin.
 - [AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - Drive a real Firefox from plain-English instructions: open pages, click, type, read and screenshot, through the real pointer and keyboard on a patched browser. Install: `gemini extensions install https://github.com/feder-cr/AIHawk`.
 - [BenchFleet](https://github.com/benchfleet/benchfleet-mcp) - Lets Gemini CLI use real Android phones connected to the BenchFleet app, with approvals and an audit log.
+- [Pushary](https://github.com/Pushary/gemini-cli-extension) - Gemini CLI extension for Pushary's hosted MCP server (OAuth sign-in, no API key): Gemini asks you a question and waits for your answer from your phone or Mac, and sends you a push when a long task finishes or fails. Paid plans with a 3-day trial. Install: `gemini extensions install https://github.com/Pushary/gemini-cli-extension`, then `/mcp auth pushary`.
 
 ## 3rd-Party Services
 
